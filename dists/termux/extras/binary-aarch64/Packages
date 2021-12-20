@@ -1,0 +1,328 @@
+Package: atuin
+Version: 0.8.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: atuin - magical shell history
+Homepage: https://atuin.sh
+Filename: dists/termux/extras/binary-aarch64/atuin_0.8.0_aarch64.deb
+Size: 3555316
+MD5Sum: 78061db08253a70a58159b932ff8d2f8
+SHA1: d9bd8127327df245c97cfec5d23ed1e7c8e22b7b
+SHA256: 2566406553b2ac108e1a5e01d16fdb41c94a5f2540a451410c1f3c79937ccc90
+SHA512: b27cc8863c6103b9d1069bbfa499f26e9ed475804989ebc4a13d9ad0b7d3f5561a9fdbbc3b6a82edbc3bb487965c2910deb24cee2907569bd5a646929ba12114
+
+Package: cargo-trim
+Version: 0.8.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: Binary application to cleanup $CARGO_HOME cache
+Homepage: https://github.com/iamsauravsharma/cargo-trim
+Recommends: rust
+Filename: dists/termux/extras/binary-aarch64/cargo-trim_0.8.0_aarch64.deb
+Size: 481884
+MD5Sum: 045847ea630cfb18b456008beb9e8067
+SHA1: 32f3aa4e0174c6de79c0fb80fd93c5d71e829347
+SHA256: 72280e1a10cb72a296566aa6aef8181c1dd135fc5972be5cf37a74685f33b107
+SHA512: 0403ab3813160b37ef9e7c49e281544e696f3cb5400ab7714a19e71256028ae819250bba3e717cd9bfc73f823dd3101b2c04c9816ac77a0d35a81ef46c359adb
+
+Package: cargo-whatfeatures
+Version: 0.9.7
+Architecture: aarch64
+Maintainer: Efreak
+Description: display features, versions and dependencies of crates
+Homepage: https://github.com/museun/cargo-whatfeatures
+Recommends: rust
+Filename: dists/termux/extras/binary-aarch64/cargo-whatfeatures_0.9.7_aarch64.deb
+Size: 830812
+MD5Sum: a0bfa905b01f33bac947bbc872016ea8
+SHA1: 15c645f89879234c7017b8c1166bd0442856d57c
+SHA256: ee1676feadbe63860862c1d2790e70213d81dcf0c82881035bacf0b89cbfa7eb
+SHA512: 5227e264a51240cccd225c28108ec75e4a1c673421c77bbef44bf53169fcd783b8563ac0137ccdc8330d2c99700909df871643c1a6f0a4131b05cfee2e1e3d6b
+
+Package: damo_fetch
+Version: 0.1.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: A system information printer
+Homepage: https://github.com/Dam-0/funtime_projects/
+Filename: dists/termux/extras/binary-aarch64/damo_fetch_0.1.0_aarch64.deb
+Size: 192076
+MD5Sum: d2002216dc08f96c924aabfb378d1296
+SHA1: 9a5c110341384a7c0e3c4265229736c396ec8abb
+SHA256: 0ba404e96a5f1fe65e68da0996470155a307dce348b0f3b1700212888e8797af
+SHA512: 376802463101d2c11a068c0ee1cb0de0edf95944cf21b56a9471a8ab34e8039958e783dd8f27bd5416f0c8fc143fdca5268f8ccb2874be87124c582f7949ba51
+
+Package: git-anger-management
+Version: 0.7.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: Count your naughty words in git commit messages
+Homepage: https://github.com/sondr3/git-anger-management
+Filename: dists/termux/extras/binary-aarch64/git-anger-management_0.7.0_aarch64.deb
+Size: 332436
+MD5Sum: be32b7311bc81610f4eeddd42e693176
+SHA1: 9f6fabdf5e04fc08975c972e38a14fc8a405fc46
+SHA256: 4e1cb10fa359e6fac8a59f775e7984ff39f21e667e2f7f1d64dffa4be918d601
+SHA512: c9f1dc1f1e6169fb8c34c2ccd5b64fe7639cba25aff08ddef0e877b1fa186217a70af3001ccd34ff98e2afef173f2a71702c67c9f70a639230f55980e036e4dd
+
+Package: git-interactive-rebase-tool
+Version: 2.1.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: Full feature terminal based sequence editor for git interactive rebase.
+Homepage: https://gitrebasetool.mitmaro.ca/
+Filename: dists/termux/extras/binary-aarch64/git-interactive-rebase-tool_2.1.0_aarch64.deb
+Size: 509172
+MD5Sum: 93d91bc2f23b7093975c5eae1b5d01cd
+SHA1: 364eddf04201ce5f74ffdf075e03c1e348cbd2fa
+SHA256: 840f96ca855844e9a9c15be1748f444f5fbd1a2dcf321c6d593355c72b6561b3
+SHA512: 2f9b75ae33c932b7cef1e7d780314e5637226a6e69c97ec43dee3c5b7412325febd48592e5b94f50d37fdafdd742381251176c57a67f7b04105af39b4e7fe917
+
+Package: git-stack
+Version: 0.5.3
+Architecture: aarch64
+Maintainer: Efreak
+Description: Stacked branch management for Git
+Filename: dists/termux/extras/binary-aarch64/git-stack_0.5.3_aarch64.deb
+Size: 1309712
+MD5Sum: 701ad9ccdbd03581f183d625a07a61ca
+SHA1: e16d16307d5a01821aad39c1469f1cc4dd196ca9
+SHA256: 72e8e39613a1b7557e058f5ceb1c50ce0c72f86c733fbfe5d70a0d87349ea679
+SHA512: 4490b8c18eb2ad8ff9fbba857a7294f03ed7869720da18d5fd8a5913185bbf244aa87f1cbdeb4d37818d6956e6527540c803b6140c498caaede88eb6ff80cb74
+
+Package: git-summary
+Version: 0.1.1
+Architecture: aarch64
+Maintainer: Efreak
+Description: git-summary is a tool for checking the git status for an
+Homepage: https://github.com/scottschroeder/git-summary-rs
+Filename: dists/termux/extras/binary-aarch64/git-summary_0.1.1_aarch64.deb
+Size: 665072
+MD5Sum: 4e08f9c3f0fa108537568073fa7c59c2
+SHA1: bbf7aeda0ad29d9e52dbeef9193275ca25ee18cf
+SHA256: fa358126269b60a8c5b1f9846fb9fc22aa30b85adf1fcc074a2d9460c4f5a588
+SHA512: 891de38698ca3016bde2dc765c7da1f86f8d5e2eacb76daa21893a907e77a59d79431b7af2a1159676a4e941973cbfb2c9d55f5f49b6e64c98f6d5ae3504269b
+
+Package: gitopen
+Version: 1.1.1
+Architecture: aarch64
+Maintainer: Efreak
+Description: Command line utility to open a git repository's web page from terminal,
+Homepage: https://github.com/oren0e/gitopen
+Filename: dists/termux/extras/binary-aarch64/gitopen_1.1.1_aarch64.deb
+Size: 571800
+MD5Sum: 92dca571479b510f12924752d05884c7
+SHA1: a83c1a7ffe7139ff3dc44642bcf794848f890031
+SHA256: f97ff37228aa5251ed775db63e23786c71192b8ac297bb880d50626c0b7d9dfe
+SHA512: 980e56012d45bcd194bac2c1778ebfcc98633c007646c36a69582a2c493d9a8ced113c61aafbdda31292d1e49d663bf60e876b5b2941d83f501a0b9af3b56307
+
+Package: hoard-rs
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: hoard - cli command organizer written in Rust
+Homepage: https://github.com/Hyde46/hoard
+Filename: dists/termux/extras/binary-aarch64/hoard-rs_1.0.0_aarch64.deb
+Size: 1664308
+MD5Sum: b0a3ca1418e85198391e3f96f24c8c6c
+SHA1: 7dcc3a8a2371298baf31b9e9e34fdf429167ae52
+SHA256: 9e892391c74f861c5d20f6df1fb9f11f89071c4b84295b68e0b47fdaab123a88
+SHA512: 5cae6178c5ba075917cb4ca6cee838139089b308318a86bf25d209f653e21cea6d7c7b0462ff0889c1f7a4f1e5ea48efaaa5e2a440e7982e10076457d181723d
+
+Package: macchina
+Version: 6.0.1
+Architecture: aarch64
+Maintainer: Efreak
+Description: A system information fetcher, with an (unhealthy) emphasis on performance.
+Filename: dists/termux/extras/binary-aarch64/macchina_6.0.1_aarch64.deb
+Size: 488128
+MD5Sum: 6bd31c65994a79c1aa1ae9b375edd08c
+SHA1: 0b3d1db098fdea46ab55409708efd2aa1ec62809
+SHA256: 3270abb683e923db302bf59ebb029099e708dde0fb8ec09d2a88248d286694f4
+SHA512: 9f33d1a2b320929bacafdccbdb5a54eb74916c3bfa099db0ed0aea64f1fcdfc935747729bc45cabfb68b776ad293d0af7b386f902bb39c83c3f6054b7725c080
+
+Package: mnem
+Version: 0.1.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: An extra-fuzzy shell history searcher
+Homepage: https://gitlab.com/dmfay/mnem
+Filename: dists/termux/extras/binary-aarch64/mnem_0.1.0_aarch64.deb
+Size: 827012
+MD5Sum: f24385fe7b1609bda54bd44a663d36ea
+SHA1: f28802755790e0c8e6938a7df4c0d99c653e8cd3
+SHA256: 5a9c52f9897895de26d21d4b2c939f6215dd88071c040a9fce78476589c87916
+SHA512: c4e7540c6d15cbb5bd5328eef350372a7805c12ba0cd37f901fe44b8aa4e7bbe2085f9a707d013e983e65f7613140ae01ed16eca02a41122ce163196c87adacd
+
+Package: os_info
+Version: 3.0.8
+Architecture: aarch64
+Maintainer: Efreak
+Description: Detect the operating system type and version.
+Homepage: https://github.com/stanislav-tkach/os_info
+Filename: dists/termux/extras/binary-aarch64/os_info_3.0.8_aarch64.deb
+Size: 566804
+MD5Sum: 65fb3abd54d9f2ddc0f2054973caf944
+SHA1: b207874a08950abbfe378dcd7cf70420a604430c
+SHA256: 2464ab81558e4a9d40a5299e55a85056ba81fd89505cbf8c59d9fd34a28449a3
+SHA512: d8c23db1ad03df356ea0403dc23357f0083cf1ee99b5c2cb10eee638a2ea171cefce47c4cf31d6bddd1cd60a215eacaf0e1e509ba65494249466be565b32d60d
+
+Package: powerline-rs
+Version: 0.2.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: powerline-shell rewritten in Rust. Inspired by powerline-go.
+Filename: dists/termux/extras/binary-aarch64/powerline-rs_0.2.0_aarch64.deb
+Size: 612248
+MD5Sum: 8483c4d75c5dfaa07cdbb9e8c5693e37
+SHA1: 3bef44f2af2714435e0936a05995e65ca4ee1265
+SHA256: 2bd68d4ba9d36d13207b73190f0e8df73473e28555ff96d603c13a088212bb50
+SHA512: 08013c817953d4252c97a1a919f57295f41e7523432bc5796d2306cf91796ce6ba1577ffc12bc215753f2bff6b21e656533b1b09cb4e8fe1e75d9149c2c94fa4
+
+Package: rocketfetch
+Version: 0.6.1
+Architecture: aarch64
+Maintainer: Efreak
+Description: A WIP command line system information tool written asynchronously in rust for performance with toml file configuration.
+Filename: dists/termux/extras/binary-aarch64/rocketfetch_0.6.1_aarch64.deb
+Size: 559256
+MD5Sum: 10275dd285b2c55038e678093cc4cc43
+SHA1: ce50119a61ff8c33e4cf376971c7ae2ba57d0bf5
+SHA256: 688472d1517a406f0bebbdfbb178fa569f97b105341c89066322830b5ed658ae
+SHA512: 8b1eb342baead552c0214fb8b362b45fb07313d4ee1608615b081c3555dbbc76ea1d7a17052b730925c7df164cb843030a287c1dd356d95ea0b4fa09caca0824
+
+Package: rpipes
+Version: 0.1.1
+Architecture: aarch64
+Maintainer: Efreak
+Description: A 'terminal saver' program that prints pipes.
+Filename: dists/termux/extras/binary-aarch64/rpipes_0.1.1_aarch64.deb
+Size: 319268
+MD5Sum: b2b2660c88b1111d0d4bfea0bf250409
+SHA1: 5239f6c2febad12382bce9edc5f2605bdfaed1d7
+SHA256: a88df4817cd0e39e3532e386abd259f05741a97e496f1936d108dd77bfa6dcf4
+SHA512: b6df1e31ee3ff5542f6bcc0322a528211cf43d8759d7ef4dec1471b78d60021b7a527fe7c268e36e2c6e955923607afd61c2b9aa137d3b3ed5ae9cfb9ca321b6
+
+Package: ru_fetch
+Version: 0.2.4
+Architecture: aarch64
+Maintainer: Efreak
+Description: Simple Fetch written in Rust.
+Filename: dists/termux/extras/binary-aarch64/ru_fetch_0.2.4_aarch64.deb
+Size: 334252
+MD5Sum: 46b48edf47e75ee376d3d4d46d3cf8fe
+SHA1: 506ee00c8a9a7f82995ff1b7dc468942a538cbcc
+SHA256: 37efcda431be9099c34507d93be4e0398e5097ab7737c08395ceeee81114e06b
+SHA512: 54e91c6b0e9b3229595247fe64f5ab6dd1d2b9a38c9714ceb055da130e0ff62ebd4987fd4dd3e924ca217d382305d197888d81baf9ba22971b7d10ed800c5a9a
+
+Package: steamguard-cli
+Version: 0.4.2
+Architecture: aarch64
+Maintainer: Efreak
+Description: A command line utility to generate Steam 2FA codes and respond to confirmations.
+Filename: dists/termux/extras/binary-aarch64/steamguard-cli_0.4.2_aarch64.deb
+Size: 1889220
+MD5Sum: 95655ecd4ffe2eb08ea53a976c636c92
+SHA1: abd8e83ef473c7f00d8ab47ed46f4dc076ba2579
+SHA256: 4a766ffad18a14db5adbc477c4b24723348e81009acfde82ba8abae5a5bc7e33
+SHA512: 6fbee406e308340ef849620a83a46849b6987f6ce828e0a79eda2d0cd716da09240faf698cbeee39ac8cab96105c81af28e5fc997fc796410ac5cb7fabc33197
+
+Package: stor-age
+Version: 0.6.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: show aging of directories
+Homepage: https://github.com/idiv-biodiversity/stor-age
+Filename: dists/termux/extras/binary-aarch64/stor-age_0.6.0_aarch64.deb
+Size: 437076
+MD5Sum: f924c82ba750e5458ee1941da4d03ad7
+SHA1: 9f387c1d0be383058def909cd9cefb2afad057ab
+SHA256: c24678cc0a8abe3d95e17a7ceb43d49940c6837737cba7dd659714053f7bcc5c
+SHA512: 7224c77c74b1f283636dcd0bbdb46e9851c6eda1809b1b056c425f46ff3d0e93ca98a1f636cd63899861d936fbc12a7a62757376445b8f238d8b7ae50018dd48
+
+Package: tuxfetch
+Version: 0.1.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: A fetch utility for the love of penguins but in Rust
+Filename: dists/termux/extras/binary-aarch64/tuxfetch_0.1.0_aarch64.deb
+Size: 317432
+MD5Sum: 50598c4df7363b19333ecbf4e0b6f422
+SHA1: 78c7c09862abeb16c886a32d966c3878217ae747
+SHA256: 011e8483f4ac361a26b1a347d0e00508d944915d61cce2ef4778b20398c28bfb
+SHA512: e769ff98280ca0e2b6c1612430f174306d464bd8bd962a549846f1747de49c772874d100e053a81268a6a75bbae224c95abf5f7a4b42aca200d3a09dbf216e73
+
+Package: vadersay
+Version: 0.6.4
+Architecture: aarch64
+Maintainer: Efreak
+Description: Say it like Vader! CLI tool
+Filename: dists/termux/extras/binary-aarch64/vadersay_0.6.4_aarch64.deb
+Size: 370868
+MD5Sum: f3ea0bba0cfb32f0c7301a9411789dcf
+SHA1: a3068fbe641ec9ba6e44faf990447e05ddbec226
+SHA256: 52fbc041bb8c60420369bfda280768a489da70f0c222557ff53c1fe7358d8e73
+SHA512: 4b1564348072e76b839a88a69e6c71c61bee94962bce6adb5ecbfb089293864058de709842a960022a671c768b3561e7fae5f5fbef9f760ba236481d7ad48639
+
+Package: web-grep
+Version: 0.1.4
+Architecture: aarch64
+Maintainer: Efreak
+Description: A Grep Tool for HTML or XML
+Homepage: https://github.com/cympfh/web-grep
+Filename: dists/termux/extras/binary-aarch64/web-grep_0.1.4_aarch64.deb
+Size: 818008
+MD5Sum: 55037f177a04a2a479f1aeb976de0b0d
+SHA1: 803bc729ec9dd01897ecfd213cd96ac9adacea14
+SHA256: 78f34a7a1409cf4a02b89aeabe0b04ac8b93ab2be79b03b4f1e620bd5f896dda
+SHA512: 51fb9ed547ba9bd85bb5000970361885d5320cf129b750a1fe5c159e6499e48c9de217d52de94af0a2ef96bcccd4a2236d470a81326193381dbaceb0306f2bed
+
+Package: wttr
+Version: 0.2.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: a cli app to interact with https://wttr.in/ via the CLI
+Filename: dists/termux/extras/binary-aarch64/wttr_0.2.0_aarch64.deb
+Size: 1384108
+MD5Sum: 71690282d752414108c03717df0b1e6c
+SHA1: c53cd5d49cb4e07dacf390871c6c1399651b5eba
+SHA256: 79ce51937f44350fb7f7c932e10fb1503cd0b4d818e43c3506c47e18dbe72ad5
+SHA512: 0f24807e27714b0e40d5f4a2a3ccbc3d0d3b9d26b8241688090cd08ad7d0afe05142633db76fbf83a8c00e623129f5f04463f81fc59eb6b7ad6b4257878eb3ab
+
+Package: yadf
+Version: 0.16.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: yet another dupes finder
+Homepage: https://github.com/jRimbault/yadf
+Filename: dists/termux/extras/binary-aarch64/yadf_0.16.0_aarch64.deb
+Size: 1036728
+MD5Sum: b005f4405401c04140a4257ff2171098
+SHA1: e7366a3db7d9f6f6ddc69bc4834e214eedbec14e
+SHA256: eae4c578ae636df00eee655067ad43c2593a727de3bc7b4af50c697a7108c150
+SHA512: bfafda4b41d8989d79f8a4a0b72be5a2d98b8b39004a0303e9c9d60c144074814c630ca349a1ef413d32306071efa2c8862cf1cdfa8d3174bc465e17bd3d8b57
+
+Package: yarf-fetch
+Version: 0.1.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: another fetch
+Filename: dists/termux/extras/binary-aarch64/yarf-fetch_0.1.0_aarch64.deb
+Size: 366680
+MD5Sum: a65ec2501d0b004f2112b9edb0455caf
+SHA1: 2e73ebbbf269f7192da9a061cd924f5246732e88
+SHA256: bef6f759f240de170131c4fc66671779f44fdd23651d504f204da36062f63bda
+SHA512: 9b72b21a59d292fa41b1f215edf1f1b4f532efb29591f4f142f1cf3d3a117dc04987d7a9f3373347b5f6db78eb27ac64d44cbdf3d9d12a242a809f71425aed69
+
+Package: yayagram
+Version: 0.8.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: Play nonograms/picross in your terminal
+Filename: dists/termux/extras/binary-aarch64/yayagram_0.8.0_aarch64.deb
+Size: 229624
+MD5Sum: 942049e3eefd06abd0521a573d6f9ae9
+SHA1: bfb46d2f81ebcf167912b8793960fcd47c8136be
+SHA256: 10eb4a50d2d9c35507c5b390077b0257875aef13337e0f15fac4958e2eb51b5a
+SHA512: d685723dc24659063531e4ace3e985691cd6d24287f0ac5b9f2a6e75d4c4aa583189507c7d454477b2f662e4a45a21b52386a20bfb52d31990c26889d6573cbb
+
