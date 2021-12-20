@@ -1,0 +1,45 @@
+Package: pipes.sh
+Version: 1.3.0
+Architecture: all
+Maintainer: @Efreak
+Description: animated pipes terminal screensaver
+Homepage: https://github.com/pipeseroni/pipes.sh
+Depends: bash
+Suggests: pipesX.sh,weave.sh
+Filename: dists/termux/extras/binary-all/pipes.sh_1.3.0_all.deb
+Size: 7232
+MD5Sum: 970b289e927dde2cac0d29f9d558f652
+SHA1: 5ab010f3464e77fab90c0ffe572151e429cf098a
+SHA256: eeb33fa28016ce35ada5e28cd3b00b3e205009781716645679f111e3a2651ed2
+SHA512: 6d9549a391d24a0288d5506ecba7ae72744d49ba4b5f45977c11b6ddb46ec063ee2f41d6ba20b087f9504f079a0e3a16af663d29a4ba47041b93e9d51c8fa5e1
+
+Package: pipesX.sh
+Version: 1.1.0
+Architecture: all
+Maintainer: @Efreak
+Description: Animated pipes terminal screensaver at an angle.
+Homepage: https://github.com/pipeseroni/pipesX.sh
+Depends: bash
+Suggests: pipes.sh,weave.sh
+Filename: dists/termux/extras/binary-all/pipesX.sh_1.1.0_all.deb
+Size: 3092
+MD5Sum: 9b36ba1665672873e1c806c4a9e24c5a
+SHA1: cd6a48e21930bf36feada4064e5684e5dad00ce6
+SHA256: 538f6a582e5bcbafd6d38682a432474e50f6536a56e82c552bb979fa4cd86fd5
+SHA512: 4d6fb41cdcc169569bb9da674458d48d69dac7673dbaca581d7c6567739ce99c263b70bcfbee1a9da00833aa5bdc39814198aaefa70ede78364ddea9f59850b7
+
+Package: weave.sh
+Version: 0.1.0
+Architecture: all
+Maintainer: @Efreak
+Description: Weaving with simple math in terminal.
+Homepage: https://github.com/pipeseroni/weave.sh
+Depends: bash
+Suggests: pipes.sh,pipesX.sh
+Filename: dists/termux/extras/binary-all/weave.sh_0.1.0_all.deb
+Size: 2156
+MD5Sum: 2a5fdb3d90f8840dbb6221ee909ffeee
+SHA1: 32ce4f393681ed64b76a04178011dfb4b1f98364
+SHA256: 456488090c9a640f18d0ed114404749182ff34e5390cda414669ffcde04d0ab4
+SHA512: 8bb8b8f63dcaba1afd64923be3fe9bf96628c41bb4a058de794dc1d3dd340a8af3225696c2451534207c98810e19199ec2ceb4dba2e1ba723d2d2d58daee8207
+

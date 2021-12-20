@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: all
+Description: termux repository
+Suite: termux
+Date: Mon, 20 Dec 2021 09:51:56 UTC
+MD5Sum:
+ 049572879abb90523cffa2ec7f51ec8f 1775 extras/binary-all/Packages
+ 037badc73c128d55ba11e3e8893827ed 896 extras/binary-all/Packages.xz
+ d232ed9fff4a86f40ed704fa3b4d9a67 451 extras/Contents-all
+ 3344108e21171e764499ccfc36ab3e6f 180 extras/Contents-all.xz
+SHA1:
+ 483ce88f3dd9fd9102d2d1d50437798d0d3f6957 1775 extras/binary-all/Packages
+ cc3d14fd3ecb862d47aae5adf6dcf7a6d1e36fe0 896 extras/binary-all/Packages.xz
+ bb6eae55609774734b26da81ced2cf3f211e0392 451 extras/Contents-all
+ 05855bc693d58db78e9079607f8106fe5a50e106 180 extras/Contents-all.xz
+SHA256:
+ e439811a074686f4b650e4b3ff19f5517732350a271ddfd2a82b96263cf9bc45 1775 extras/binary-all/Packages
+ c42a3466c0871abc741388d217ae1fdc0d6759772a48601fe5fbad11226134ce 896 extras/binary-all/Packages.xz
+ 334dbc673b6fc6df44b6d3e1f95be3696c9f9c8f4c597f79346fb2c06de297de 451 extras/Contents-all
+ 6911be83220bf94641c9b9ab0c77ad8ce2e02d37e7a30ff9e83b9968fa417d4b 180 extras/Contents-all.xz
+SHA512:
+ 055158bf5cacaa0c573caedb55acb4010c41a6c66ae4ab2c198caee207703d1a3906c5a7712b731637763afbdfae6d22eb18b794a9a40824f5979ad22afa9ad5 1775 extras/binary-all/Packages
+ 976eae76705a30917e81ba288ca22bbef62991debcbdfbcf068060cbbbca99772e57fff5a6fc9f3efbd794bab9f15d38b9a8ccccc985172355b9c593725a8d70 896 extras/binary-all/Packages.xz
+ 29eb085ba71289e5f3cb62219eff69f735aeda1e5d0d5b9c0bd4278d4a79ca1579e85379ea1c8d34975ff611404a1d79f82bec347cf025a1dcf346d87ffa7617 451 extras/Contents-all
+ 42ccf600add61b46d9d913664c2d6bdda98625c3ccc734603a67733ac2147b75911abdccdb178b37692f342f4dff325319481f2cc54b7d775a38ba70050fca52 180 extras/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQTbkQHZ1RkMYXpNJ7spMKF8GemjLAUCYcBSPAAKCRApMKF8Gemj
+LO2OAP4/Lla0X3xXf7Iinax4ecZAeXNS/hoDl6slB9b1/gd4JgEAjfpM8b2fcTU7
+pOovxy3UZ+6Tkj30Z401dkb6oKGXBwk=
+=CceK
+-----END PGP SIGNATURE-----
