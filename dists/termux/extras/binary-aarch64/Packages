@@ -129,6 +129,19 @@ SHA1: a83c1a7ffe7139ff3dc44642bcf794848f890031
 SHA256: f97ff37228aa5251ed775db63e23786c71192b8ac297bb880d50626c0b7d9dfe
 SHA512: 980e56012d45bcd194bac2c1778ebfcc98633c007646c36a69582a2c493d9a8ced113c61aafbdda31292d1e49d663bf60e876b5b2941d83f501a0b9af3b56307
 
+Package: goful
+Version: 0.2.12
+Architecture: aarch64
+Maintainer: Efreak
+Description: Goful is a CUI file manager written in Go. Be aware: no help.
+Homepage: https://github.com/anmitsu/goful
+Filename: dists/termux/extras/binary-aarch64/goful_0.2.12_aarch64.deb
+Size: 3396
+MD5Sum: 627fe5ba234dd4fdfa1790678531a895
+SHA1: 998af568d6e6bf5b70593d05ad29839dcf3d8d4b
+SHA256: 07dc928fdb332f3d5834f8ae1325f1ccd40b423afabc7e8b9aa10467b873fb44
+SHA512: ee22c5414277f487d9491079a4370c3361ff20367c6ce00c88851c769d7d7cf78f90d324ef5ff55bf7c0f8580f315ccba847cf91e33b45bc334e3a0a55b112ed
+
 Package: hoard-rs
 Version: 1.0.0
 Architecture: aarch64
@@ -181,6 +194,21 @@ MD5Sum: 232c12fdc9e0ec06a620a7e0a22997d7
 SHA1: 2c8c36b27b8fc7719d80ee0cc03911379f423f3a
 SHA256: dff2732f18951abae463164ecd66b7d35ac826a5524cc3254055d07fb53353d8
 SHA512: 2c994ee4c7fdd7ea1b448d571f7969c346fec155a940eb864142058031290d84ddc818281dea9895de240bf75793f248dbba8cf5fbb176f6f52efc21b40dac79
+
+Package: neo
+Version: 0.6+git-bd5491
+Architecture: aarch64
+Maintainer: Efreak
+Description: Simulates the digital rain from "The Matrix" (cmatrix clone with 32-bit color and Unicode support).
+	This is a git version, which incorporates extra features from the current release (braille and runic charsets, pct values, a bugfix)
+Homepage: https://github.com/st3w/neo
+Depends: ncurses
+Filename: dists/termux/extras/binary-aarch64/neo_0.6+git-bd5491_aarch64.deb
+Size: 29076
+MD5Sum: bdfc116c169820ba7a91cde58c6dbd69
+SHA1: 202e6768aa67f9f6ab11312773b04468024ada1f
+SHA256: 54e4f4414880fbfaac159480a7701db97e10633c6b07cfd6086f75eb727ab11e
+SHA512: ed7134d44ab9b3d35cebf188ff58aa0e35a10e28b1c60ef3ae85a833aa005b04b531ddd12bd2ee12019b7c2f4c0be86b5d75a0db1ad988ed5893a0622514def6
 
 Package: os_info
 Version: 3.0.8
@@ -282,6 +310,19 @@ SHA1: 9f387c1d0be383058def909cd9cefb2afad057ab
 SHA256: c24678cc0a8abe3d95e17a7ceb43d49940c6837737cba7dd659714053f7bcc5c
 SHA512: 7224c77c74b1f283636dcd0bbdb46e9851c6eda1809b1b056c425f46ff3d0e93ca98a1f636cd63899861d936fbc12a7a62757376445b8f238d8b7ae50018dd48
 
+Package: sttr
+Version: 0.2.12
+Architecture: aarch64
+Maintainer: Efreak
+Description: cross-platform, cli app to perform various operations on string
+Homepage: https://github.com/abhimanyu003/sttr
+Filename: dists/termux/extras/binary-aarch64/sttr_0.2.12_aarch64.deb
+Size: 1809092
+MD5Sum: 2a48c0a6414dbd7627f6776c516b1f17
+SHA1: 188580b2f791031ac22a9635e3407b3b629d2c27
+SHA256: 7ee1b714e64f20c820eebad877c5127b99144dce2f7ccdaf29aaf3bdeda2328f
+SHA512: 20c7cb4f8e9369f308df608848d99506777e298c3c14f009a993bfe89984a90f1c8e71607f237307446df98ab66486b3847e26cde73742892c43aa5493b70039
+
 Package: tuxfetch
 Version: 0.1.0
 Architecture: aarch64
@@ -330,6 +371,49 @@ MD5Sum: 71690282d752414108c03717df0b1e6c
 SHA1: c53cd5d49cb4e07dacf390871c6c1399651b5eba
 SHA256: 79ce51937f44350fb7f7c932e10fb1503cd0b4d818e43c3506c47e18dbe72ad5
 SHA512: 0f24807e27714b0e40d5f4a2a3ccbc3d0d3b9d26b8241688090cd08ad7d0afe05142633db76fbf83a8c00e623129f5f04463f81fc59eb6b7ad6b4257878eb3ab
+
+Package: xi-core
+Version: 0.3.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: A modern editor with a backend written in Rust.
+Homepage: https://github.com/xi-editor/xi-editor/
+Recommends: xi-term,xi-syntect-plugin
+Filename: dists/termux/extras/binary-aarch64/xi-core_0.3.0_aarch64.deb
+Size: 1492620
+MD5Sum: a9b6223f243f9219cf727a856fb0fa4d
+SHA1: 74a63f3a6b2a38ce23f5d734e9552ebbfa9a0df0
+SHA256: 7b72593443a729dc9e418e71b90e02f44f31c22f635e2c72d3ec84f6f4d2ae81
+SHA512: f4c8b8d2a5e5d90b61c91f5cfa680de0104b2db1fc499cf9195c3b8907c829bb28804679542b44e6a119e9384014425b6a1bf4b4e17eb66f6d2454eedf236be1
+
+Package: xi-syntect-plugin
+Version: 0.3.0
+Architecture: aarch64
+Maintainer: Efreak
+Description: syntax highlighter for xi-editor
+Homepage: https://github.com/xi-editor/xi-editor/
+Recommends: xi-term,xi-core
+Filename: dists/termux/extras/binary-aarch64/xi-syntect-plugin_0.3.0_aarch64.deb
+Size: 1028916
+MD5Sum: 201a7cb28f7e0d0b1ae5329d320347f8
+SHA1: d629ad1e70808056b3c6a6581d23d4ce1b7bce31
+SHA256: 6c1af34fdcd75630aaaeac129337dce3f7e2b8369ff2d7b56339b5022bc3a587
+SHA512: d7b1ae05d42d66fc103d903b0018a5ae5de9a68ddee0fec0f700a75a91f9484dfa6e181f6d07ef0e630a1480983edeb9516b24daf197db9f214c39754c0320bf
+
+Package: xi-term
+Version: d264767
+Architecture: aarch64
+Maintainer: Efreak
+Description: A terminal frontend for xi. helpfully reports its version number as xi.
+Homepage: https://github.com/xi-frontend/xi-term
+Depends: xi-core
+Recommends: xi-syntect-plugin
+Filename: dists/termux/extras/binary-aarch64/xi-term_d264767_aarch64.deb
+Size: 860808
+MD5Sum: 4b898e050b89d2bd78e0177a53481431
+SHA1: b495e7c72925f0b9dcbd7b5c50b48e339f2fc5ca
+SHA256: f65e36a5076e0e9e785ffb19af8a3abcb1a10d46eb36f857c9ab710d1df9d627
+SHA512: 16e8d5e1189ffabb2aadd5ac60f6a682df4e618e8284ff89208b5ea263cd7cefc45a07cdc5e5eeb631a0a3d47f50013974d1200f53f9f18be3f7e4606b146ac0
 
 Package: yadf
 Version: 0.16.0
