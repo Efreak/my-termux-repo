@@ -8,3 +8,4 @@ wget https://github.com/Efreak/my-termux-repo/raw/main/gpg-key -qO-|apt-key add
 TODO:
 
 - [tetris](https://github.com/samtay/tetris)?
+- fix xi-term metadata, apt doesnt like version without a digit

@@ -33,7 +33,6 @@ data/data/com.termux/files/usr/bin/web-grep                                     
 data/data/com.termux/files/usr/bin/wttr                                          wttr
 data/data/com.termux/files/usr/bin/xi-core                                       xi-core
 data/data/com.termux/files/usr/../home/.local/share/xi-syntect-plugin            xi-syntect-plugin
-data/data/com.termux/files/usr/bin/xi-term                                       xi-term
 data/data/com.termux/files/usr/bin/yadf                                          yadf
 data/data/com.termux/files/usr/bin/yarf-fetch                                    yarf-fetch
 data/data/com.termux/files/usr/bin/yayagram                                      yayagram

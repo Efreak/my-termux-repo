@@ -427,21 +427,6 @@ SHA1: d629ad1e70808056b3c6a6581d23d4ce1b7bce31
 SHA256: 6c1af34fdcd75630aaaeac129337dce3f7e2b8369ff2d7b56339b5022bc3a587
 SHA512: d7b1ae05d42d66fc103d903b0018a5ae5de9a68ddee0fec0f700a75a91f9484dfa6e181f6d07ef0e630a1480983edeb9516b24daf197db9f214c39754c0320bf
 
-Package: xi-term
-Version: d264767
-Architecture: aarch64
-Maintainer: Efreak
-Description: A terminal frontend for xi. helpfully reports its version number as xi.
-Homepage: https://github.com/xi-frontend/xi-term
-Depends: xi-core
-Recommends: xi-syntect-plugin
-Filename: dists/termux/extras/binary-aarch64/xi-term_d264767_aarch64.deb
-Size: 860808
-MD5Sum: 4b898e050b89d2bd78e0177a53481431
-SHA1: b495e7c72925f0b9dcbd7b5c50b48e339f2fc5ca
-SHA256: f65e36a5076e0e9e785ffb19af8a3abcb1a10d46eb36f857c9ab710d1df9d627
-SHA512: 16e8d5e1189ffabb2aadd5ac60f6a682df4e618e8284ff89208b5ea263cd7cefc45a07cdc5e5eeb631a0a3d47f50013974d1200f53f9f18be3f7e4606b146ac0
-
 Package: yadf
 Version: 0.16.0
 Architecture: aarch64
