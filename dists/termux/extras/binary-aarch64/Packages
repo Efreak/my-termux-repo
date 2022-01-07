@@ -1,3 +1,16 @@
+Package: amfora
+Version: 1.9.2
+Architecture: aarch64
+Maintainer: Efreak
+Description: A fancy terminal browser for the Gemini protocol.
+Homepage: https://github.com/makeworld-the-better-one/amfora
+Filename: dists/termux/extras/binary-aarch64/amfora_1.9.2_aarch64.deb
+Size: 2417832
+MD5Sum: 98245ff1b140859efbf0b188e55d431e
+SHA1: 6c74416c22e37cb14e788aa57348a70927316206
+SHA256: f0ec2e62bd8139bab8bf383c7a548e9cce2b0b73b8e6c4aa21d8ac82dcd41347
+SHA512: 4a41f22a7e2bd9d438676f0d4ccd4706e28887da7d7762dc3c1b49daf737ec5f39e69d1d24bd5c6061b44c8bc1d4a1760066036e0d950b4dd3ead08474aab62c
+
 Package: atuin
 Version: 0.8.0
 Architecture: aarch64
@@ -199,14 +212,14 @@ Version: 5.5.3
 Architecture: aarch64
 Maintainer: Efreak
 Description: ncurses-based pager for mysql, pgsql, pgcli, monetdb, trino, usql, and sqlcl, and for csv/tsv files.
-	Compiled statically, I think. Otherwise //it'll need ncurses and possibly pgsql (was needed for building)
+	Compiled statically, I think. Otherwise it'll need ncurses and possibly pgsql (was needed for building)
 Homepage: https://github.com/okbob/pspg
 Filename: dists/termux/extras/binary-aarch64/pspg_5.5.3_aarch64.deb
-Size: 233272
-MD5Sum: a5631c7632f34b85d127dce240327b05
-SHA1: c7e9325a50367df73a106b92d0371f2725754f63
-SHA256: 74b46cc7a460932abf33d817cd4834f43d9d244579fe9c46d0090eaf7caa0695
-SHA512: 1d783fda13ca261751c62fdbe634b025e34e52ff35ef26045ec0374d864589cb785f7232d2fea30dccab8bc0121bbd4c783398e190bf698d38549f711edd9f05
+Size: 233268
+MD5Sum: 818286ad996fa4ab58c74294de821721
+SHA1: c106c9135cac36cc81b4c9f24246373be895c9c5
+SHA256: 8a9ab84002585e4a8ff45e993ea016355b9bb5ce2ae65a4b537c7310a5c09b59
+SHA512: a6e2a774efd8f8c815c73aae2514a26f106dbdfad7625b9b2becc21a01f1b20da863adfac02a7f0377e6c2fbf9f2c9a3a2fadfc234e8456a9cf6351c3bb42110
 
 Package: rocketfetch
 Version: 0.6.1
