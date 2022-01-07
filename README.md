@@ -3,3 +3,8 @@ This is a termux repo I'm playing with. It's quite unlikely anything here will e
 ```
 wget https://github.com/Efreak/my-termux-repo/raw/main/gpg-key -qO-|apt-key add
 ```
+
+
+TODO:
+
+- [tetris](https://github.com/samtay/tetris)?
