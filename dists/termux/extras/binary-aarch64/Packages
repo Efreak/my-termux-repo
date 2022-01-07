@@ -129,6 +129,20 @@ SHA1: a83c1a7ffe7139ff3dc44642bcf794848f890031
 SHA256: f97ff37228aa5251ed775db63e23786c71192b8ac297bb880d50626c0b7d9dfe
 SHA512: 980e56012d45bcd194bac2c1778ebfcc98633c007646c36a69582a2c493d9a8ced113c61aafbdda31292d1e49d663bf60e876b5b2941d83f501a0b9af3b56307
 
+Package: gitty
+Version: 0.6.0
+Architecture: aarch64
+Maintainer: @Efreak
+Description: Contextual information about your git projects, right on the command-line
+Homepage: https://github.com/muesli/gitty
+Suggests: git
+Filename: dists/termux/extras/binary-aarch64/gitty_0.6.0_aarch64.deb
+Size: 1753424
+MD5Sum: 3b9c0298f59bdfeb1003239f99379e76
+SHA1: e47a4d29ff5bcbe64d0d725792c405a2d4523a53
+SHA256: 8def5c178bb0c180861477bbad839afa5babc0c9dffafa4de66ce42adceb678a
+SHA512: 43a2af738fd0a816acf6f26967518a3ad13ced15ce0460f32ce5a39d552e8022c70aaa82606ea29ed1c392ef715a036552270259cc74eee08e1178e03c07b825
+
 Package: goful
 Version: 0.2.12
 Architecture: aarch64
@@ -166,6 +180,19 @@ MD5Sum: 6bd31c65994a79c1aa1ae9b375edd08c
 SHA1: 0b3d1db098fdea46ab55409708efd2aa1ec62809
 SHA256: 3270abb683e923db302bf59ebb029099e708dde0fb8ec09d2a88248d286694f4
 SHA512: 9f33d1a2b320929bacafdccbdb5a54eb74916c3bfa099db0ed0aea64f1fcdfc935747729bc45cabfb68b776ad293d0af7b386f902bb39c83c3f6054b7725c080
+
+Package: mandown
+Version: 1.0.4
+Architecture: aarch64
+Maintainer: @Efreak
+Description: man-page inspired Markdown viewer
+Homepage: https://github.com/Titor8115/mandown
+Filename: dists/termux/extras/binary-aarch64/mandown_1.0.4_aarch64.deb
+Size: 100368
+MD5Sum: a244533406259504cc46ef44f5c4af4a
+SHA1: 310b74a8bf32eb883d07be6389361e8e279cabd6
+SHA256: a82970e800668c03657c5510494c1c88bcaab65d869775917512e0729dd58510
+SHA512: 46a019d7122f5d27c6e92528e7886d4b6a68975ff0c78843fb409c2f55758d23ca2adae0ad0951b45e0699afb32cd9eb547f8967db94742deba627066e5a93d3
 
 Package: mnem
 Version: 0.1.0

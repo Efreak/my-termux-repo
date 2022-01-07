@@ -8,10 +8,12 @@ data/data/com.termux/files/usr/bin/interactive-rebase-tool                      
 data/data/com.termux/files/usr/bin/git-stack                                     git-stack
 data/data/com.termux/files/usr/bin/git-summary                                   git-summary
 data/data/com.termux/files/usr/bin/gitopen                                       gitopen
+data/data/com.termux/files/usr/bin/gitty                                         gitty
 data/data/com.termux/files/usr/bin/goful                                         goful
 data/data/com.termux/files/usr/share/man/man1/goful.1                            goful
 data/data/com.termux/files/usr/bin/hoard                                         hoard-rs
 data/data/com.termux/files/usr/bin/macchina                                      macchina
+data/data/com.termux/files/usr/bin/mdn                                           mandown
 data/data/com.termux/files/usr/bin/mnem                                          mnem
 data/data/com.termux/files/usr/bin/ncdu                                          ncdu
 data/data/com.termux/files/usr/share/man/man1/ncdu.1                             ncdu
