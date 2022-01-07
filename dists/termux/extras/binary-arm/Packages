@@ -3,13 +3,13 @@ Version: 2.0.1
 Architecture: arm
 Maintainer: @Efreak
 Description: Disk usage analyzer.
-Version 2.x works differently and can be used outside of termux's data folder on android 11+
-I did not compipe this, it's a statically linked file from the author's page
+	Version 2.x works differently and can be used outside of termux's data folder on android 11+
+	I did not compipe this, it's a statically linked file from the author's page
 Homepage: https://dev.yorhel.nl/ncdu
 Filename: dists/termux/extras/binary-arm/ncdu_2.0.1_arm.deb
-Size: 264224
-MD5Sum: 6aa5816c45706a59cd53194f5fd2f6aa
-SHA1: 27f63bad89a7a445e98894ee81750d1792056a33
-SHA256: 74371523897d086907d85249aea651944c7b674a69e1a4bb197b1e65fe22145c
-SHA512: c35574ecd0cf071ea6eac2c37a3c800583f87c99bddf915cf35006f02e934665be37c70681cb3f66873ba7e50fd2cfd669b9f03825b3a4637a4e0ec3c7233f50
+Size: 264228
+MD5Sum: 30e0dc0ac3189cb594bea5a53b9fc4c4
+SHA1: 44c5f149435aad9fc237bace47c01297e83b6bb3
+SHA256: 797152146acea33dda65e15a4e1b96fe125287c39ce5c6b3e54d8c1c5d9e0e75
+SHA512: 23c96307862529c646f932d177a8d73d1d79feadf44b503f088d57b02c225ab4382f672894e15ceeb37ddb47c29703dc61e6c9762e60907307dbd161f6fdbb3e
 

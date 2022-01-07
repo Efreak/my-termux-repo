@@ -159,15 +159,15 @@ Version: 2.0.1
 Architecture: aarch64
 Maintainer: @Efreak
 Description: Disk usage analyzer.
-Version 2.x works differently and can be used outside of termux's data folder on android 11+
-I did not compipe this, it's a statically linked file from the author's page
+	Version 2.x works differently and can be used outside of termux's data folder on android 11+
+	I did not compipe this, it's a statically linked file from the author's page
 Homepage: https://dev.yorhel.nl/ncdu
 Filename: dists/termux/extras/binary-aarch64/ncdu_2.0.1_aarch64.deb
-Size: 244072
-MD5Sum: 502c63ab0a13d08a38c6ddb5f9c2ae36
-SHA1: 3237b3206c3e74b2b63924e0faa5ac233e5bf25b
-SHA256: ee790a2e5f75311ba0302fc13576983dd0b5be9a783324dad2ac8b3d855fcdb6
-SHA512: facb4517b067c1c0fe86bbc4c7ce47b20de748b37b702abdc27fefa996d4f1ad0d559e6cfb6f9ff99fd421d7a8b0546f40c391bdfb80fbcfcf7864b282731a93
+Size: 244076
+MD5Sum: 232c12fdc9e0ec06a620a7e0a22997d7
+SHA1: 2c8c36b27b8fc7719d80ee0cc03911379f423f3a
+SHA256: dff2732f18951abae463164ecd66b7d35ac826a5524cc3254055d07fb53353d8
+SHA512: 2c994ee4c7fdd7ea1b448d571f7969c346fec155a940eb864142058031290d84ddc818281dea9895de240bf75793f248dbba8cf5fbb176f6f52efc21b40dac79
 
 Package: os_info
 Version: 3.0.8
