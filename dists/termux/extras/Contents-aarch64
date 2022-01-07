@@ -10,6 +10,8 @@ data/data/com.termux/files/usr/bin/gitopen                                      
 data/data/com.termux/files/usr/bin/hoard                                         hoard-rs
 data/data/com.termux/files/usr/bin/macchina                                      macchina
 data/data/com.termux/files/usr/bin/mnem                                          mnem
+data/data/com.termux/files/usr/bin/ncdu                                          ncdu
+data/data/com.termux/files/usr/share/man/man1/ncdu.1                             ncdu
 data/data/com.termux/files/usr/bin/os_info                                       os_info
 data/data/com.termux/files/usr/bin/powerline-rs                                  powerline-rs
 data/data/com.termux/files/usr/bin/rocketfetch                                   rocketfetch
