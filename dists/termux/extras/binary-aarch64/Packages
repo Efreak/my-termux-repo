@@ -194,6 +194,20 @@ SHA1: 3bef44f2af2714435e0936a05995e65ca4ee1265
 SHA256: 2bd68d4ba9d36d13207b73190f0e8df73473e28555ff96d603c13a088212bb50
 SHA512: 08013c817953d4252c97a1a919f57295f41e7523432bc5796d2306cf91796ce6ba1577ffc12bc215753f2bff6b21e656533b1b09cb4e8fe1e75d9149c2c94fa4
 
+Package: pspg
+Version: 5.5.3
+Architecture: aarch64
+Maintainer: Efreak
+Description: ncurses-based pager for mysql, pgsql, pgcli, monetdb, trino, usql, and sqlcl, and for csv/tsv files.
+	Compiled statically, I think. Otherwise //it'll need ncurses and possibly pgsql (was needed for building)
+Homepage: https://github.com/okbob/pspg
+Filename: dists/termux/extras/binary-aarch64/pspg_5.5.3_aarch64.deb
+Size: 233272
+MD5Sum: a5631c7632f34b85d127dce240327b05
+SHA1: c7e9325a50367df73a106b92d0371f2725754f63
+SHA256: 74b46cc7a460932abf33d817cd4834f43d9d244579fe9c46d0090eaf7caa0695
+SHA512: 1d783fda13ca261751c62fdbe634b025e34e52ff35ef26045ec0374d864589cb785f7232d2fea30dccab8bc0121bbd4c783398e190bf698d38549f711edd9f05
+
 Package: rocketfetch
 Version: 0.6.1
 Architecture: aarch64
