@@ -65,6 +65,19 @@ SHA1: 9a5c110341384a7c0e3c4265229736c396ec8abb
 SHA256: 0ba404e96a5f1fe65e68da0996470155a307dce348b0f3b1700212888e8797af
 SHA512: 376802463101d2c11a068c0ee1cb0de0edf95944cf21b56a9471a8ab34e8039958e783dd8f27bd5416f0c8fc143fdca5268f8ccb2874be87124c582f7949ba51
 
+Package: freesweep
+Version: 1.0.1
+Architecture: aarch64
+Maintainer: @Efreak
+Description: A console minesweeper-style game written in C for Unix-like systems
+Homepage: https://github.com/rwestlund/freesweep
+Filename: dists/termux/extras/binary-aarch64/freesweep_1.0.1_aarch64.deb
+Size: 28968
+MD5Sum: 32c732a43ab19e6d4c5536ef04f2f556
+SHA1: 939183d6cd13916e43941334eee7c4e4ba7bce18
+SHA256: 73b7d85a8ebc72ed53daa718055d37da86e3153149426b42e5b28baadc8799cf
+SHA512: 74f6c916a7e768f1767989358594e2f666b4e2fc1e1c97238fc901837caa3027c5636e5b1f998b342c0362170923850d127721b9412fc341351ff9176b635857
+
 Package: git-anger-management
 Version: 0.7.0
 Architecture: aarch64
