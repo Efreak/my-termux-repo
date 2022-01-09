@@ -4,7 +4,7 @@ This is a termux repo I'm playing with. It's quite unlikely anything here will e
 wget https://github.com/Efreak/my-termux-repo/raw/main/gpg-key -qO-|apt-key add
 ```
 
-A number of apps require ncurses, some of them may not notify you of this, while others will be statically compiled. use `ldd` to check if in doubt.
+A number of apps require ncurses, some of them may not notify you of this, while others will be statically compiled. use `ldd` to check if in doubt. static binaries are larger; some are stripped and compressed with upx.
 
 These apps will likely not ever be updated, as some of them are just things I'm playing with. Others are simply rust software I wanted to install on multiple devices.
 
