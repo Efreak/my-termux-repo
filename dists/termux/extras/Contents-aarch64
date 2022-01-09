@@ -18,6 +18,8 @@ data/data/com.termux/files/usr/share/man/man1/goful.1                           
 data/data/com.termux/files/usr/bin/hoard                                         hoard-rs
 data/data/com.termux/files/usr/bin/macchina                                      macchina
 data/data/com.termux/files/usr/bin/mdn                                           mandown
+data/data/com.termux/files/usr/bin/mazeGenerator                                 mazegenerator
+data/data/com.termux/files/usr/share/mazeGenerator.config.ini                    mazegenerator
 data/data/com.termux/files/usr/bin/mnem                                          mnem
 data/data/com.termux/files/usr/bin/ncdu                                          ncdu
 data/data/com.termux/files/usr/share/man/man1/ncdu.1                             ncdu

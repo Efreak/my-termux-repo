@@ -208,6 +208,20 @@ SHA1: 310b74a8bf32eb883d07be6389361e8e279cabd6
 SHA256: a82970e800668c03657c5510494c1c88bcaab65d869775917512e0729dd58510
 SHA512: 46a019d7122f5d27c6e92528e7886d4b6a68975ff0c78843fb409c2f55758d23ca2adae0ad0951b45e0699afb32cd9eb547f8967db94742deba627066e5a93d3
 
+Package: mazegenerator
+Version: 97b16c8
+Architecture: aarch64
+Maintainer: @Efreak
+Description: Recursive Backtracker Maze Generation Algorithm with C++ using ncurses
+Homepage: https://github.com/cyucelen/mazeGenerator
+Depends: ncurses
+Filename: dists/termux/extras/binary-aarch64/mazegenerator_97b16c8_aarch64.deb
+Size: 44620
+MD5Sum: 523528cd8c365469c23433d32ac8234f
+SHA1: 39af9331b1f3d41f860f2c6b90bb86db8cfbd99f
+SHA256: d59562e7156ed52c0475a39292353fcf1aff828f9d06991a06837574336a5892
+SHA512: eaceaf39e3d2eb4b1e3cfa6de10a8bd63dd63f6f88223118230ec5085385ac024e49b574b61386567d5801507dec4e298515243658f0eafbb72e732cbfb1cccd
+
 Package: mnem
 Version: 0.1.0
 Architecture: aarch64
