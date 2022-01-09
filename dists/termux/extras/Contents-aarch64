@@ -27,6 +27,7 @@ data/data/com.termux/files/usr/bin/mnem                                         
 data/data/com.termux/files/usr/bin/ncdu                                          ncdu
 data/data/com.termux/files/usr/share/man/man1/ncdu.1                             ncdu
 data/data/com.termux/files/usr/bin/neo                                           neo
+data/data/com.termux/files/usr/bin/ngp                                           ngp2
 data/data/com.termux/files/usr/bin/os_info                                       os_info
 data/data/com.termux/files/usr/bin/powerline-rs                                  powerline-rs
 data/data/com.termux/files/usr/bin/pspg                                          pspg

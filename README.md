@@ -33,6 +33,7 @@ Included software is listed below; particularly useful or interesting software i
 - mnem
 - ncdu
 - *neo*
+- ngp2
 - os_info
 - pipes.sh
 - pipesX.sh

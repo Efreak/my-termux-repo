@@ -316,6 +316,21 @@ SHA1: 202e6768aa67f9f6ab11312773b04468024ada1f
 SHA256: 54e4f4414880fbfaac159480a7701db97e10633c6b07cfd6086f75eb727ab11e
 SHA512: ed7134d44ab9b3d35cebf188ff58aa0e35a10e28b1c60ef3ae85a833aa005b04b531ddd12bd2ee12019b7c2f4c0be86b5d75a0db1ad988ed5893a0622514def6
 
+Package: ngp2
+Version: 1.1.0
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 226
+Homepage: https://github.com/gquere/ngp2
+Description: mcurses-grep: interactively navigate grep-like results
+ ncurses linked statically, so not required. stripped.
+Filename: dists/termux/extras/binary-aarch64/ngp2_1.1.0_aarch64.deb
+Size: 85848
+MD5Sum: 8f4a564d565a5dbfd863a049d0e052e3
+SHA1: f78bc834fc59db08b0a2f95d1036ab494ab43c26
+SHA256: 37761b5b5bc50747489aabdd12eff19d6f9ceae9cdd0ba711e4854d93b40d3b2
+SHA512: a6177921999cc74abadfff69eefd49a1c3b867076d932ffa130e5d9f4fd9ab8134a808c2fea565002004968a271c0f5b817f9d24b27874581adc461093f7b289
+
 Package: os_info
 Version: 3.0.8
 Architecture: aarch64
