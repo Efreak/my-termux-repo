@@ -121,11 +121,11 @@ Description: an ncurses animation thing that makes decryption look like, well, d
  static binary; ncurses not required. stripped and compressed with upx.
  There is no version number here.
 Filename: dists/termux/extras/binary-aarch64/dekryptize_1-ff09f6163_aarch64.deb
-Size: 331448
-MD5Sum: 4951428741321c72ed455faf558d8da3
-SHA1: 8e8ec41ddf1dcef705491c0c6c2b6bac76033c5e
-SHA256: ff80ebcd3b054657fab983c7279c947676ee1b3d4cf22b14158869f456e916b2
-SHA512: 741e540a85841a2cd6014f505f309f74bd2cce28474b209bd8819ea8822c2f95c59df0669afb0b2c39afd1a08c6e8fe196a49edf51bd7fa85363372b155a89fa
+Size: 331488
+MD5Sum: 7f2ded8013e5f5c2da6a2aa8d26002d6
+SHA1: 9ad85d84f2fcbc474b1617edb883d63e57ae5a17
+SHA256: afbae474883a81a0f5ba89c45acc59fd59d412cbd442aaddccc3554a1daede1b
+SHA512: f14a58f3c584499fd3da0a2da738f84a141aaca096194d2cbd33ba186f7dcd7ed72014c59e6f90401baefa657b2e80d0b3159b055b3bd9f443249cf1fb34a662
 
 Package: flowerbox
 Version: 1-ef109

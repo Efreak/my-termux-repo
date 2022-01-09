@@ -3,13 +3,13 @@ Hash: SHA256
 
 Codename: termux
 Version: 1
-Architectures: aarch64 arm all
+Architectures: aarch64 all arm
 Description: termux repository
 Suite: termux
-Date: Sun, 09 Jan 2022 10:56:19 UTC
+Date: Sun, 09 Jan 2022 11:11:57 UTC
 MD5Sum:
- 2b31b4f58b49ddbb91595a29942a1499 31692 extras/binary-aarch64/Packages
- 98753c6ade492dc290cf32daf13c24cf 12180 extras/binary-aarch64/Packages.xz
+ 75184f6a507b264cafd793bf0e81a5f0 31692 extras/binary-aarch64/Packages
+ 24a4c323c77e4d20eac1eee4ba6a819b 12184 extras/binary-aarch64/Packages.xz
  dc5f3514c585e52f7ee4bf37f73ad30b 682 extras/binary-arm/Packages
  9a0076dd899dc33e2d2d06af3b98ef3c 576 extras/binary-arm/Packages.xz
  049572879abb90523cffa2ec7f51ec8f 1775 extras/binary-all/Packages
@@ -21,8 +21,8 @@ MD5Sum:
  66d02e0d6d5e36055e3b1df70ef304f5 132 extras/Contents-arm.xz
  3344108e21171e764499ccfc36ab3e6f 180 extras/Contents-all.xz
 SHA1:
- 967097029348095dfd5c13bf8f5ff4c68674a449 31692 extras/binary-aarch64/Packages
- 5af84e1eed16e25cbf4559a4f769b372fd6de1a8 12180 extras/binary-aarch64/Packages.xz
+ 97a22c738ae4f2af44eb2fece2003ffe1841946e 31692 extras/binary-aarch64/Packages
+ d7af6f8a333449900fcb4b973ec738be4639baf2 12184 extras/binary-aarch64/Packages.xz
  e8926f325ddba948b47a94e1e172f856c017dbe7 682 extras/binary-arm/Packages
  64d6ba15ddb85d564ded41638fa8023d234632ef 576 extras/binary-arm/Packages.xz
  483ce88f3dd9fd9102d2d1d50437798d0d3f6957 1775 extras/binary-all/Packages
@@ -34,8 +34,8 @@ SHA1:
  8369a224d859f5e9c054a61b7c6d6251740e93f9 132 extras/Contents-arm.xz
  05855bc693d58db78e9079607f8106fe5a50e106 180 extras/Contents-all.xz
 SHA256:
- 5a7d6f2d931bd97e823ea5f009957074f920f8353e3c500c038a601bcac72427 31692 extras/binary-aarch64/Packages
- b27ff943912336262154ff938b471ec9cbbf8d6c10d50f60535682c4b9209a33 12180 extras/binary-aarch64/Packages.xz
+ 3914891c43c8740b6df643fcbe5c956d3afbdb27f0d331f39631bcfb02b3027d 31692 extras/binary-aarch64/Packages
+ 71647fcdf3d6e4367a18d1f7190f9dd0396d7d04c952707246ff78c841aeb938 12184 extras/binary-aarch64/Packages.xz
  ec6ff12f096bf7423a7d310886f111ca55f5c8eff2537fddb1cb92cb0f7fa72a 682 extras/binary-arm/Packages
  fca36de4b381f855b2dd8f2ebf1c72302a2d062c8a1523e56d03d7c3b0f57eb9 576 extras/binary-arm/Packages.xz
  e439811a074686f4b650e4b3ff19f5517732350a271ddfd2a82b96263cf9bc45 1775 extras/binary-all/Packages
@@ -47,8 +47,8 @@ SHA256:
  c320e59fbb5c1d1226e66959e4ff9e1213f632b4237acd4f92df4e3b64de1b53 132 extras/Contents-arm.xz
  6911be83220bf94641c9b9ab0c77ad8ce2e02d37e7a30ff9e83b9968fa417d4b 180 extras/Contents-all.xz
 SHA512:
- 6c40b89ea7bc56c1ffc9fccf17d5feae655acdbb64ae77808cd4d5fddb6b1747c2791ceceaffa220eaf919d30d6e0134c10d9faa8ce9df9c71d9f9cb1dfae020 31692 extras/binary-aarch64/Packages
- d39c5701917a3afad2c5e8d877154f48fe44afdf35c562389e889301b70db2784bebda9135675959ee737ad12fbcdb634b9cb7ae7dcf98e46834a9080ddae48d 12180 extras/binary-aarch64/Packages.xz
+ f06bb36292c5ed8bc8a7280e54ef4996fc398d9d9db09fa379f822d44cbf0ddf9d4d249deeb03f2337a372b817365c0596c18c8ae6bc67246f4af9cd793e2bff 31692 extras/binary-aarch64/Packages
+ bf972f6458c91cde588fd90a31bf53fe548027e7600ae03ef62a6f501f54528826e8d2efd2bb0a8f9e6f4a04c9ca541434ec88c30d8676d884687de8160748c7 12184 extras/binary-aarch64/Packages.xz
  b95df14694be5088d3532509680491e8f73c689688d7295aff71ae2ad3ca9d4fbe9eecb9ea62b10e5bfb0fae35c32319114deaeb200795d3da5bbdaa3e77e8a3 682 extras/binary-arm/Packages
  84466f4d9f202149e39e5ffa3f4742d37cd6551ba9643f999f027b0cc70f72041c89322e081037865d203bd03f633cd231b5f4e03dd38494af716d6eb72d9274 576 extras/binary-arm/Packages.xz
  055158bf5cacaa0c573caedb55acb4010c41a6c66ae4ab2c198caee207703d1a3906c5a7712b731637763afbdfae6d22eb18b794a9a40824f5979ad22afa9ad5 1775 extras/binary-all/Packages
@@ -61,8 +61,8 @@ SHA512:
  42ccf600add61b46d9d913664c2d6bdda98625c3ccc734603a67733ac2147b75911abdccdb178b37692f342f4dff325319481f2cc54b7d775a38ba70050fca52 180 extras/Contents-all.xz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQTbkQHZ1RkMYXpNJ7spMKF8GemjLAUCYdq/VgAKCRApMKF8Gemj
-LHAKAP9qMgN15AE0emNnxK4KQDsGBG0oCcELt6z+iBoKwkDplAD5AbHrJb5K0Hbx
-OJASf3wAoXyOhaFXWWbowJxyad9c0gk=
-=J8Ks
+iHUEARYIAB0WIQTbkQHZ1RkMYXpNJ7spMKF8GemjLAUCYdrDBAAKCRApMKF8Gemj
+LB+8AP9WdzOClA6cfC8bNokQ2Rt1lECneIEhGjho3uXTn2PmoAD/aCT1er/sYEWn
+hJnqSDiAOvLYOWNQitjBJOWPT58QQAY=
+=/rLK
 -----END PGP SIGNATURE-----
