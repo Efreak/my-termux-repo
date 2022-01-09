@@ -127,6 +127,21 @@ SHA1: 8e8ec41ddf1dcef705491c0c6c2b6bac76033c5e
 SHA256: ff80ebcd3b054657fab983c7279c947676ee1b3d4cf22b14158869f456e916b2
 SHA512: 741e540a85841a2cd6014f505f309f74bd2cce28474b209bd8819ea8822c2f95c59df0669afb0b2c39afd1a08c6e8fe196a49edf51bd7fa85363372b155a89fa
 
+Package: flowerbox
+Version: 1-ef109
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 215
+Homepage: https://github.com/MrCocoNuat/flowerbox
+Description: Drop seeds in a virtual flowerbox and make your own garden.
+ modified to exit with q and autoseed with a
+Filename: dists/termux/extras/binary-aarch64/flowerbox_1-ef109_aarch64.deb
+Size: 82656
+MD5Sum: 7ddc37016793f1f16847587d6d4d48f5
+SHA1: 625dde32ba776b36d20e810d5a6f6b99f5e5b61b
+SHA256: 8a71e77749e2bfe47817c21b1843913b5cbd25fb04120b27373be92b5a25a48d
+SHA512: 9d9bb3c0bcc3db965829b7270290d84e83520195bed631d3059449f2c19440de1e784a3c1061f5d96ecd421065b8a2691cd52417f865b98376e2ba2cee5763c4
+
 Package: freesweep
 Version: 1.0.1
 Architecture: aarch64

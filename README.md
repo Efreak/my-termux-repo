@@ -19,6 +19,7 @@ Included software is listed below; particularly useful or interesting software i
 - *curses-city*
 - damo
 - dekryptize - fake decryption animation using ncurses
+- flowerbox
 - *freesweep* - minesweeper
 - git-anger-management
 - *git-interactive-rebase-tool*
