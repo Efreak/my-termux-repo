@@ -459,6 +459,21 @@ SHA1: 188580b2f791031ac22a9635e3407b3b629d2c27
 SHA256: 7ee1b714e64f20c820eebad877c5127b99144dce2f7ccdaf29aaf3bdeda2328f
 SHA512: 20c7cb4f8e9369f308df608848d99506777e298c3c14f009a993bfe89984a90f1c8e71607f237307446df98ab66486b3847e26cde73742892c43aa5493b70039
 
+Package: terminal-mines
+Version: 1.2.0
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 340
+Homepage: https://github.com/joelekstrom/terminal-mines
+Description: an ncurses based minesweeper game
+ static binary; ncurses not required. stripped and compressed with upx.
+Filename: dists/termux/extras/binary-aarch64/terminal-mines_1.2.0_aarch64.deb
+Size: 337784
+MD5Sum: d2954e58b3f798a2e782a731b6746498
+SHA1: 7e3cfb50bfbec84a35685f4f9dc7489dd0aeddb2
+SHA256: 4a12bb971c5bad548b9112a4afacc53097d1a933452c38a17bda0dda8b483352
+SHA512: 66e371efb523f78a20b4f5a69da1354c4e3200f60a87af6708c5efdc99c07caea545db6516cb227416d4a85405fc93c205717e18278f0f3ff960f2f4985da8b8
+
 Package: tiny-moon-runner
 Version: 1-ede2f99
 Architecture: aarch64

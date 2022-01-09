@@ -46,6 +46,7 @@ Included software is listed below; particularly useful or interesting software i
 - *steamguard-cli*
 - stor-age
 - sttr
+- terminal-mines
 - tiny-moon-runner
 - tuxfetch
 - vadersay
