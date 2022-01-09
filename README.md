@@ -11,6 +11,7 @@ These apps will likely not ever be updated, as some of them are just things I'm 
 Included software is listed below; particularly useful or interesting software is *italicized*.
 
 - amfora
+- ascii-rain
 - atuin
 - *cargo-trim* - cleans up cargo caches
 - cargo-whatfeatures

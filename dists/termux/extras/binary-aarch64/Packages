@@ -11,6 +11,20 @@ SHA1: 6c74416c22e37cb14e788aa57348a70927316206
 SHA256: f0ec2e62bd8139bab8bf383c7a548e9cce2b0b73b8e6c4aa21d8ac82dcd41347
 SHA512: 4a41f22a7e2bd9d438676f0d4ccd4706e28887da7d7762dc3c1b49daf737ec5f39e69d1d24bd5c6061b44c8bc1d4a1760066036e0d950b4dd3ead08474aab62c
 
+Package: ascii-rain
+Version: 1-a28fe89
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 332
+Homepage: https://github.com/nkleemann/ascii-rain
+Description: Comfy rain for your console. Static build.
+Filename: dists/termux/extras/binary-aarch64/ascii-rain_1-a28fe89_aarch64.deb
+Size: 331212
+MD5Sum: 1c557c857cc03e4bbf31674d92ad3818
+SHA1: 9e9bcd1998a8fdde1527beba73fad52fa554cb0d
+SHA256: e805116a496f9ff49f2e7e31a3472d97d191be930e486efdee82b8b464f4398d
+SHA512: de0c3dfe43918d841e7e698d0f8e3cf0390d9cadb9e5d013cd6c67aa80e1072b7de483c0ddecfad1f72a5e32d1d4b4f37bfa0ae8aac2cfc0d2befa6713d667d3
+
 Package: atuin
 Version: 0.8.0
 Architecture: aarch64
