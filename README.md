@@ -50,6 +50,7 @@ Included software is listed below; particularly useful or interesting software i
 - sttr
 - terminal-mines
 - tiny-moon-runner
+- trog
 - tuxfetch
 - vadersay
 - weave.sh

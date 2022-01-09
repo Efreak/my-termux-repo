@@ -524,6 +524,24 @@ SHA1: 5392ce1c6d84c38f61762a54bf5bfdb4c402154f
 SHA256: e3de607cebad903f358a2f6ac5dda2e467476d3ff053095331bb492e79946afb
 SHA512: a6d398081ae8738b0b328a63cd41ecde62fdd59a403f9a5fa52ff709b1a40947e87e159559a0a5006806966de8dc4564ceeba399b73c08ad95d17684d2195fb7
 
+Package: trog
+Version: 1-6173345
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 405
+Depends: libc++
+Homepage: https://github.com/JohnAnthony/TROG
+Description: ncurses roguelike done right
+ ncurses statically linked, not required; stripped.
+ No version number provided. hash used instead.
+ This version modified to exit on Esc and provide help with -h, these changes submitted.
+Filename: dists/termux/extras/binary-aarch64/trog_1-6173345_aarch64.deb
+Size: 140604
+MD5Sum: 319c0ade3f003604c37ede22b704b599
+SHA1: 4c3a1d9228b6e7498522db3b7fbcb638f5dc3f68
+SHA256: 4d9b49bf4a3b4d3b2825b7a311f2556b6018e9205076acc5f4165a8ff148f6a2
+SHA512: e486d00ac129017a53f8027d2d98aaca46f97f1edaa0f47f973ff35edf0902a3a7f1b99ab0d45588259573b64b98d1e52b147c8988cc599c578a39c01ad4e7c1
+
 Package: tuxfetch
 Version: 0.1.0
 Architecture: aarch64
