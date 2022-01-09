@@ -71,12 +71,13 @@ Architecture: aarch64
 Maintainer: @Efreak
 Description: A console minesweeper-style game written in C for Unix-like systems
 Homepage: https://github.com/rwestlund/freesweep
+Depends: ncurses
 Filename: dists/termux/extras/binary-aarch64/freesweep_1.0.1_aarch64.deb
-Size: 28940
-MD5Sum: f4c8e1254d8f3dbeacdf5e1a4780aa4d
-SHA1: 5700c14cec91794fb98fc34da04d04e83c79fcd1
-SHA256: f661ff3856bded751d58be67bd66f8c109265b19b4da0981a24dc25f54aa89d9
-SHA512: 116a42e87a4297adfbf545149a778969a8dd1c07558f32ace3a1bc91b4740e9c5b4b42b9de5870a8bc0a3be4646d7935960c795e8d77ad98a2693381d5d646e8
+Size: 28952
+MD5Sum: bdec959c8bcab90368a25d972a70896a
+SHA1: dbb538ec28b37bce23442850ae93b8e4f2909532
+SHA256: 8d5c79af8709479ecb7f2923ca2e67b4438e0a60b5a8d2188740682f5e039c94
+SHA512: e0829481506b9e5c0e5f8f71c4b4d93339f684b957416695ed2bde536904b6698b44bf2cb001fcbcaa375af4959e47ca97d446b647094d6353da3ea8b64be214
 
 Package: git-anger-management
 Version: 0.7.0
@@ -332,12 +333,13 @@ Maintainer: @Efreak
 Description: An easy to use hex editor written for unix/linux using ncurses, with a friendly pico-style interface.
 	Shed displays one byte per line, with ascii, hex, octal and binary representations. Use X to quit, not q.
 Homepage: https://shed.sourceforge.net
+Depends: ncurses
 Filename: dists/termux/extras/binary-aarch64/shed_1.15_aarch64.deb
-Size: 16852
-MD5Sum: d621a48ee37dc772c43b2a9b7322e663
-SHA1: 12407787615eb137f8076a518e7aaaed7e1cdda0
-SHA256: 09de09ca2f87ac918bbcc7445db2c5fc8b1b627d49aa589690a10cd2205f2735
-SHA512: 0f8946751f74f0f4a7435ce5a1960a1ca22d94ff193531e7fb539bd6aafa49b2de5e6bd6048d5e3a71f0fe3228b934ad7a43774145b2b3faf707ae2e4c4468f4
+Size: 16864
+MD5Sum: 4b01015a591ca0df7f757bbb709b2a0c
+SHA1: 4bb82c6557c8f4c9e99f6bf989058d623b9fe526
+SHA256: 979b37f47fc4f795c9b07ffe38849a4361015c5ba4ca526525ade79fd8eb6aec
+SHA512: 30a0701a0713fa9d09cbee619458a43a9367814ba2b656a0df33ab378e5b79ecf2e2a05bcd89b6138e2cf02b92841f5ca842ba9b4f0d67daeead155a02880fa5
 
 Package: steamguard-cli
 Version: 0.4.2
