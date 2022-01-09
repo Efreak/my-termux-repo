@@ -25,6 +25,7 @@ Included software is listed below; particularly useful or interesting software i
 - gitty
 - *goful*
 - hoard-rs
+- *imgcurses*
 - macchina
 - *mandown*
 - mazegenerator

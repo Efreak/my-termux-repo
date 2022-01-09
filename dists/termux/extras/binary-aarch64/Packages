@@ -199,6 +199,24 @@ SHA1: 7dcc3a8a2371298baf31b9e9e34fdf429167ae52
 SHA256: 9e892391c74f861c5d20f6df1fb9f11f89071c4b84295b68e0b47fdaab123a88
 SHA512: 5cae6178c5ba075917cb4ca6cee838139089b308318a86bf25d209f653e21cea6d7c7b0462ff0889c1f7a4f1e5ea48efaaa5e2a440e7982e10076457d181723d
 
+Package: imgcurses
+Version: 1-de613caa3
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 590
+Depends: libpng
+Homepage: https://github.com/orangeduck/imgcurses
+Description: imgcurses is a smart console based image viewer.
+ ncurses and libjpeg are statically linked, and not required.
+ static linking libpng wouldnt work, so it is required
+ There is no version number here.
+Filename: dists/termux/extras/binary-aarch64/imgcurses_1-de613caa3_aarch64.deb
+Size: 202700
+MD5Sum: e15335e66f5b9d2d9289b76067b8c480
+SHA1: fddf64708648d2b300490703e77b44afc3522670
+SHA256: 5d5b62b71d719fe391ea5132357dfe12e05f960b6e2fabc59a61973eae9b0370
+SHA512: 97c2c10e57e9ac342ddcbde675e4836272bbd4f982deac4403538562a38820317247e1746138411174c31ed8a8d49d6ef2997de27a880ab1cd696d259efa83d7
+
 Package: macchina
 Version: 6.0.1
 Architecture: aarch64

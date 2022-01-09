@@ -17,6 +17,7 @@ data/data/com.termux/files/usr/bin/gitty                                        
 data/data/com.termux/files/usr/bin/goful                                         goful
 data/data/com.termux/files/usr/share/man/man1/goful.1                            goful
 data/data/com.termux/files/usr/bin/hoard                                         hoard-rs
+data/data/com.termux/files/usr/bin/imgcurses                                     imgcurses
 data/data/com.termux/files/usr/bin/macchina                                      macchina
 data/data/com.termux/files/usr/bin/mdn                                           mandown
 data/data/com.termux/files/usr/bin/mazeGenerator                                 mazegenerator
