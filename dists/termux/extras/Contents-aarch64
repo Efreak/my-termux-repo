@@ -35,6 +35,7 @@ data/data/com.termux/files/usr/man/man1/shed.1                                  
 data/data/com.termux/files/usr/bin/steamguard-cli                                steamguard-cli
 data/data/com.termux/files/usr/bin/stor-age                                      stor-age
 data/data/com.termux/files/usr/bin/sttr                                          sttr
+data/data/com.termux/files/usr/bin/tiny-moon-runner                              tiny-moon-runner
 data/data/com.termux/files/usr/bin/tuxfetch                                      tuxfetch
 data/data/com.termux/files/usr/bin/vadersay                                      vadersay
 data/data/com.termux/files/usr/bin/web-grep                                      web-grep

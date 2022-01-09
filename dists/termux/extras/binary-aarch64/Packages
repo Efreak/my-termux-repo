@@ -393,6 +393,23 @@ SHA1: 188580b2f791031ac22a9635e3407b3b629d2c27
 SHA256: 7ee1b714e64f20c820eebad877c5127b99144dce2f7ccdaf29aaf3bdeda2328f
 SHA512: 20c7cb4f8e9369f308df608848d99506777e298c3c14f009a993bfe89984a90f1c8e71607f237307446df98ab66486b3847e26cde73742892c43aa5493b70039
 
+Package: tiny-moon-runner
+Version: 1-ede2f99
+Architecture: aarch64
+Maintainer: @Efreak
+Description: A collection of command line games built with ncurses.
+	Renamed to tiny-moon-runner because there's only one game in here.
+	ncurses is statically linked, and not required. (replace -lncurses with -l:libncurses.a)
+	There is no version number here. dpkg doesn't like versions that dont start with a number, so the git commit hash was prefixed with 1-
+Homepage: https://benbusby.itch.io/tiny-moon-runner
+Suggests: ncurses
+Filename: dists/termux/extras/binary-aarch64/tiny-moon-runner_1-ede2f99_aarch64.deb
+Size: 90724
+MD5Sum: d17c3d3ca91467b83d5d79bdf17a8a5f
+SHA1: bac4b73760e6cb026ca7aacb5bb17f7e54ed2155
+SHA256: 887b21653022e33f6e58fcf1ab4109bfef832fb068aa5c192417e4964813b27f
+SHA512: 94fccb2fc455640db7b5814504ef2a53837be9298707d5b2c3e2c0832422a860a122aee68a61474298e13d60e6c705251154a71d854cc551aa5a65e22fe74102
+
 Package: tuxfetch
 Version: 0.1.0
 Architecture: aarch64
