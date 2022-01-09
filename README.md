@@ -34,6 +34,7 @@ Included software is listed below; particularly useful or interesting software i
 - mnem
 - ncdu
 - *neo*
+- netware-worms - a screensaver
 - ngp2
 - os_info
 - pipes.sh

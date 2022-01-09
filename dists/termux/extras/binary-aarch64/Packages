@@ -333,6 +333,22 @@ SHA1: 202e6768aa67f9f6ab11312773b04468024ada1f
 SHA256: 54e4f4414880fbfaac159480a7701db97e10633c6b07cfd6086f75eb727ab11e
 SHA512: ed7134d44ab9b3d35cebf188ff58aa0e35a10e28b1c60ef3ae85a833aa005b04b531ddd12bd2ee12019b7c2f4c0be86b5d75a0db1ad988ed5893a0622514def6
 
+Package: netware-worms
+Version: 1.16
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 238
+Depends: libc++
+Homepage: https://github.com/jeffmerkey/netware-screensaver-linux
+Description: Ncurses Implementation of the Netware SMP Worm Screensaver on Linux
+ ncurses statically linked, not required; stripped.
+Filename: dists/termux/extras/binary-aarch64/netware-worms_1.16_aarch64.deb
+Size: 91256
+MD5Sum: c82706ee7e3b03360e28f69a991281c2
+SHA1: 1af39661c463c348a08cc9519fd3f7fc56ffc40e
+SHA256: cff56389b0b2ae6359227090587b52f0e4e5b281b353dff750f195c41f4fecec
+SHA512: 248cb59c1678cf914c953453a2b972d1c758f0bfb7cb27ec26b63a71a31a758334771ecd7d7583881e2077a7d869b5b408c04116983808b439f24e1421a6772e
+
 Package: ngp2
 Version: 1.1.0
 Architecture: aarch64
