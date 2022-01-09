@@ -2,13 +2,12 @@ data/data/com.termux/files/usr/bin/amfora                                       
 data/data/com.termux/files/usr/bin/atuin                                         atuin
 data/data/com.termux/files/usr/bin/cargo-trim                                    cargo-trim
 data/data/com.termux/files/usr/bin/cargo-whatfeatures                            cargo-whatfeatures
-data/data/com.termux/files/usr/bin/cbonsai                                       cbonsai
-data/data/com.termux/files/usr/man/man1/cbonsai.1                                cbonsai
+data/data/com.termux/files/usr/share/man/man1/cbonsai.1                          cbonsai
 data/data/com.termux/files/usr/bin/damo_fetch                                    damo_fetch
 data/data/com.termux/files/home/.local/share/sweeprc                             freesweep
 data/data/com.termux/files/home/.local/share/sweeptimes                          freesweep
 data/data/com.termux/files/usr/bin/freesweep                                     freesweep
-data/data/com.termux/files/usr/man/man6/freesweep.6                              freesweep
+data/data/com.termux/files/usr/share/man/man6/freesweep.6                        freesweep
 data/data/com.termux/files/usr/bin/git-anger-management                          git-anger-management
 data/data/com.termux/files/usr/bin/interactive-rebase-tool                       git-interactive-rebase-tool
 data/data/com.termux/files/usr/bin/git-stack                                     git-stack
@@ -32,9 +31,8 @@ data/data/com.termux/files/usr/bin/pspg                                         
 data/data/com.termux/files/usr/bin/rocketfetch                                   rocketfetch
 data/data/com.termux/files/usr/bin/rpipes                                        rpipes
 data/data/com.termux/files/usr/bin/ru_fetch                                      ru_fetch
-data/data/com.termux/files/usr/bin/scdoc                                         scdoc
-data/data/com.termux/files/usr/man/man1/scdoc.1                                  scdoc
-data/data/com.termux/files/usr/man/man5/scdoc.5                                  scdoc
+data/data/com.termux/files/usr/bin/shed                                          scdoc
+data/data/com.termux/files/usr/share/man/man1/shed.1                             scdoc
 data/data/com.termux/files/usr/bin/shed                                          shed
 data/data/com.termux/files/usr/man/man1/shed.1                                   shed
 data/data/com.termux/files/usr/bin/steamguard-cli                                steamguard-cli

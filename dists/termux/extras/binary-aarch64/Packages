@@ -56,15 +56,16 @@ Package: cbonsai
 Version: 1.3.1
 Architecture: aarch64
 Maintainer: @Efreak
-Installed-Size: 345
+Installed-Size: 3
+Depends: ncurses
 Homepage: https://gitlab.com/jallbrit/cbonsai
-Description: grow bonsai trees in your terminal. statically binary.
+Description: grow bonsai trees in your terminal. static binary.
 Filename: dists/termux/extras/binary-aarch64/cbonsai_1.3.1_aarch64.deb
-Size: 342256
-MD5Sum: 0129fd245efb337d7598d5ce36756bcb
-SHA1: cc9f4b993ad56f599553cef45e45e9d6ae38db14
-SHA256: 99b6edb6120aa30c1c5ae6192389498d02ed83ef6b26f28cf68c5050f445deb0
-SHA512: 0985b7453a4448789f017e91ae1b88ec6883387e246e42dfe32dffcc9d98eb3bad7c0f6907170be744b9b62034318a56e34d83d0ffaeee6c709b480fd0b672fa
+Size: 1880
+MD5Sum: eed418d9ca8883a7c8297b2459ade008
+SHA1: 9cce29f134dc2e9ab8cddc855fd63751fabc275c
+SHA256: 76507a47154f9ddc05eebba0efa7e7828b26689952cd309e33547e94056baceb
+SHA512: 98e39b5fe3a7e725b7081c84af760c074a6567d8f7633d6ffba188aa0d1a7157b8af83cee2907a0ffe7ce975bd398cb6757df50ddc4df554038b02e9e8015079
 
 Package: damo_fetch
 Version: 0.1.0
@@ -83,15 +84,16 @@ Package: freesweep
 Version: 1.0.1
 Architecture: aarch64
 Maintainer: @Efreak
-Description: A console minesweeper-style game written in C for Unix-like systems
-Homepage: https://github.com/rwestlund/freesweep
+Installed-Size: 89
 Depends: ncurses
+Homepage: https://github.com/rwestlund/freesweep
+Description: A console minesweeper-style game written in C for Unix-like systems
 Filename: dists/termux/extras/binary-aarch64/freesweep_1.0.1_aarch64.deb
-Size: 28952
-MD5Sum: bdec959c8bcab90368a25d972a70896a
-SHA1: dbb538ec28b37bce23442850ae93b8e4f2909532
-SHA256: 8d5c79af8709479ecb7f2923ca2e67b4438e0a60b5a8d2188740682f5e039c94
-SHA512: e0829481506b9e5c0e5f8f71c4b4d93339f684b957416695ed2bde536904b6698b44bf2cb001fcbcaa375af4959e47ca97d446b647094d6353da3ea8b64be214
+Size: 29280
+MD5Sum: a8c209934e22c7a8c38286b1b329e94f
+SHA1: f52b6e19960b2121d5eb510b7039fe6210dbe76f
+SHA256: 1166195fc922825bb0fae23275858700e16993c22ba6050e5ac492f0e5ac180b
+SHA512: 443b89e298e0112e70853644b9ecb7889e21659b0b48ec2db4c26ac91bd4f8df3d627877029a12de30f1231767f08882c6cd3b30a4b4f6bfe453194aa4f72e0a
 
 Package: git-anger-management
 Version: 0.7.0
@@ -213,14 +215,15 @@ Package: mandown
 Version: 1.0.4
 Architecture: aarch64
 Maintainer: @Efreak
-Description: man-page inspired Markdown viewer
+Installed-Size: 101
 Homepage: https://github.com/Titor8115/mandown
+Description: man-page inspired markdown viewer
 Filename: dists/termux/extras/binary-aarch64/mandown_1.0.4_aarch64.deb
-Size: 100368
-MD5Sum: a244533406259504cc46ef44f5c4af4a
-SHA1: 310b74a8bf32eb883d07be6389361e8e279cabd6
-SHA256: a82970e800668c03657c5510494c1c88bcaab65d869775917512e0729dd58510
-SHA512: 46a019d7122f5d27c6e92528e7886d4b6a68975ff0c78843fb409c2f55758d23ca2adae0ad0951b45e0699afb32cd9eb547f8967db94742deba627066e5a93d3
+Size: 100536
+MD5Sum: dee9ec8b2f48b6afe0205c4f7e56bd56
+SHA1: 19744efde0b97e56cd7c81d72d8c91d809055dea
+SHA256: 4180d1e069ca9c5884c10fafac52ff5f24b7af4e49c5b5fedfa5cb640055dd73
+SHA512: 84edee77299ef25aa09b45ce8a39c161ca4d5838a0bc08ab77eba99274681cc909394fc65855afac546e93b749a0239e3efdd592823f3d6c8adc6b93f07b7821
 
 Package: mazegenerator
 Version: 97b16c8
@@ -358,16 +361,16 @@ Package: scdoc
 Version: 1.11.2-b16de45
 Architecture: aarch64
 Maintainer: @Efreak
-Installed-Size: 268
-Homepage: https://git.sr.ht/~sircmpwn/scdoc
-Description: The scdoc utility reads scdoc(5) syntax from the standard input and writes man(7) style roff to the standard output.
-	align_fix.py from the ndk patches was needed, as compiling natively in termux did not produce an executable binary...The 5mb binary was then stripped and compressed with upx
+Installed-Size: 19
+Depends: ncurses
+Homepage: https://shed.sourceforge.net
+Description: An easy to use hex editor written for unix/linux using ncurses, with a friendly pico-style interface.
 Filename: dists/termux/extras/binary-aarch64/scdoc_1.11.2-b16de45_aarch64.deb
-Size: 262044
-MD5Sum: 187a77ecbaa3093388c918876193564b
-SHA1: e71f7b884fcbdc5fb6707ae408df1219fe9ec7a1
-SHA256: 8b56819089fed6565b67fbfd6179ed8ffc5ead8caaaafdde26bdee56f24c9516
-SHA512: 7f65fdd5e2272008c74fd09d9a611c6a71458e9da66d0e2dcdfabc104b0fa643b09b85b20f758824fa81c7cf510252bc843705444939e0abd2b7edf819a55587
+Size: 17048
+MD5Sum: 4b13cbe3a6a390d7a03e3a0ba6dcd34b
+SHA1: 7ec0f8cf463496b219d6f9ee00b72ebd47c7cd9b
+SHA256: c901e8f4e7853d1a2690eb9a90729de1a608c290ddb6798782f022cf0c8c1494
+SHA512: d6bb84482ffc8ef2b6dee7ec3ae4527089e77f45609c04889f7c637f3412368b7cbfd4736dd0a535c9e34ef386ae576dc8a8514457dd30a5f20e833873e04d6f
 
 Package: shed
 Version: 1.15
@@ -426,18 +429,19 @@ Package: tiny-moon-runner
 Version: 1-ede2f99
 Architecture: aarch64
 Maintainer: @Efreak
-Description: A collection of command line games built with ncurses.
-	Renamed to tiny-moon-runner because there's only one game in here.
-	ncurses is statically linked, and not required. (replace -lncurses with -l:libncurses.a)
-	There is no version number here. dpkg doesn't like versions that dont start with a number, so the git commit hash was prefixed with 1-
+Installed-Size: 268
+Depends: ncurses
 Homepage: https://benbusby.itch.io/tiny-moon-runner
-Suggests: ncurses
+Description: A collection of command line games built with ncurses.
+ Renamed to tiny-moon-runner because there's only one game in here.
+ ncurses is statically linked, and not required. (replace -lncurses with -l:libncurses.a)
+ There is no version number here. dpkg doesn't like versions that dont start with a number, so the git commit hash was prefixed with 1-
 Filename: dists/termux/extras/binary-aarch64/tiny-moon-runner_1-ede2f99_aarch64.deb
-Size: 90724
-MD5Sum: d17c3d3ca91467b83d5d79bdf17a8a5f
-SHA1: bac4b73760e6cb026ca7aacb5bb17f7e54ed2155
-SHA256: 887b21653022e33f6e58fcf1ab4109bfef832fb068aa5c192417e4964813b27f
-SHA512: 94fccb2fc455640db7b5814504ef2a53837be9298707d5b2c3e2c0832422a860a122aee68a61474298e13d60e6c705251154a71d854cc551aa5a65e22fe74102
+Size: 91064
+MD5Sum: d6e69a8a3b1414ceba640f45c20d165f
+SHA1: 5392ce1c6d84c38f61762a54bf5bfdb4c402154f
+SHA256: e3de607cebad903f358a2f6ac5dda2e467476d3ff053095331bb492e79946afb
+SHA512: a6d398081ae8738b0b328a63cd41ecde62fdd59a403f9a5fa52ff709b1a40947e87e159559a0a5006806966de8dc4564ceeba399b73c08ad95d17684d2195fb7
 
 Package: tuxfetch
 Version: 0.1.0
