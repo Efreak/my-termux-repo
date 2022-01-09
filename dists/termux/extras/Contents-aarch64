@@ -46,6 +46,8 @@ data/data/com.termux/files/usr/bin/sttr                                         
 data/data/com.termux/files/usr/bin/terminal-mines                                terminal-mines
 data/data/com.termux/files/usr/share/man/man1/terminal-mines.1                   terminal-mines
 data/data/com.termux/files/usr/bin/tiny-moon-runner                              tiny-moon-runner
+data/data/com.termux/files/usr/bin/tmatrix                                       tmatrix
+data/data/com.termux/files/usr/share/man/man6/tmatrix.6.gz                       tmatrix
 data/data/com.termux/files/usr/bin/trog                                          trog
 data/data/com.termux/files/usr/bin/tuxfetch                                      tuxfetch
 data/data/com.termux/files/usr/bin/vadersay                                      vadersay

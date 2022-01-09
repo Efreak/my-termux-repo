@@ -540,6 +540,21 @@ SHA1: 5392ce1c6d84c38f61762a54bf5bfdb4c402154f
 SHA256: e3de607cebad903f358a2f6ac5dda2e467476d3ff053095331bb492e79946afb
 SHA512: a6d398081ae8738b0b328a63cd41ecde62fdd59a403f9a5fa52ff709b1a40947e87e159559a0a5006806966de8dc4564ceeba399b73c08ad95d17684d2195fb7
 
+Package: tmatrix
+Version: 1.4
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 374
+Depends: libc++
+Homepage: https://github.com/M4444/TMatrix
+Description: Terminal based replica of the digital rain from The Matrix.
+Filename: dists/termux/extras/binary-aarch64/tmatrix_1.4_aarch64.deb
+Size: 129772
+MD5Sum: 81e9787e7be15457891036e128f792d1
+SHA1: 753042368c1a892d875f96c5efe925398f458545
+SHA256: 967870f6435f4056910311c5900cb694605f0d5923dc4b400ffcfc192fb53c07
+SHA512: 18ea34fffbb13b206ae1778c851cecc27a4d93ff03d57791e68166592c6e4bb63c0d4a8c3ec256085d5bf46687d383e96c41468883889718874fccad25581a61
+
 Package: trog
 Version: 1-6173345
 Architecture: aarch64

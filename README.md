@@ -51,6 +51,7 @@ Included software is listed below; particularly useful or interesting software i
 - sttr
 - terminal-mines
 - tiny-moon-runner
+- tmatrix
 - trog
 - tuxfetch
 - vadersay
