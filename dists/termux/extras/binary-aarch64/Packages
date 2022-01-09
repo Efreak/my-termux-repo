@@ -80,6 +80,22 @@ SHA1: 9a5c110341384a7c0e3c4265229736c396ec8abb
 SHA256: 0ba404e96a5f1fe65e68da0996470155a307dce348b0f3b1700212888e8797af
 SHA512: 376802463101d2c11a068c0ee1cb0de0edf95944cf21b56a9471a8ab34e8039958e783dd8f27bd5416f0c8fc143fdca5268f8ccb2874be87124c582f7949ba51
 
+Package: dekryptize
+Version: 1-ff09f6163
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 332
+Homepage: https://github.com/mjosaarinen/dekryptize
+Description: an ncurses animation thing that makes decryption look like, well, decryption
+ static binary; ncurses not required. stripped and compressed with upx.
+ There is no version number here.
+Filename: dists/termux/extras/binary-aarch64/dekryptize_1-ff09f6163_aarch64.deb
+Size: 331448
+MD5Sum: 4951428741321c72ed455faf558d8da3
+SHA1: 8e8ec41ddf1dcef705491c0c6c2b6bac76033c5e
+SHA256: ff80ebcd3b054657fab983c7279c947676ee1b3d4cf22b14158869f456e916b2
+SHA512: 741e540a85841a2cd6014f505f309f74bd2cce28474b209bd8819ea8822c2f95c59df0669afb0b2c39afd1a08c6e8fe196a49edf51bd7fa85363372b155a89fa
+
 Package: freesweep
 Version: 1.0.1
 Architecture: aarch64

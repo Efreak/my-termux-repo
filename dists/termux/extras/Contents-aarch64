@@ -4,6 +4,7 @@ data/data/com.termux/files/usr/bin/cargo-trim                                   
 data/data/com.termux/files/usr/bin/cargo-whatfeatures                            cargo-whatfeatures
 data/data/com.termux/files/usr/share/man/man1/cbonsai.1                          cbonsai
 data/data/com.termux/files/usr/bin/damo_fetch                                    damo_fetch
+data/data/com.termux/files/usr/bin/dekryptize                                    dekryptize
 data/data/com.termux/files/home/.local/share/sweeprc                             freesweep
 data/data/com.termux/files/home/.local/share/sweeptimes                          freesweep
 data/data/com.termux/files/usr/bin/freesweep                                     freesweep

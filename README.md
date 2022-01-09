@@ -16,6 +16,7 @@ Included software is listed below; particularly useful or interesting software i
 - cargo-whatfeatures
 - *cbonsai* - draw trees in the terminal
 - damo
+- dekryptize - fake decryption animation using ncurses
 - *freesweep* - minesweeper
 - git-anger-management
 - *git-interactive-rebase-tool*
