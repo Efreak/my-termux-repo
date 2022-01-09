@@ -9,3 +9,4 @@ TODO:
 
 - [tetris](https://github.com/samtay/tetris)?
 - fix xi-term metadata, apt doesnt like version without a digit
+- [ncursesFM](https://github.com/FedeDP/ncursesFM) requires libudev...
