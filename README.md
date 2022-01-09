@@ -10,3 +10,4 @@ TODO:
 - [tetris](https://github.com/samtay/tetris)?
 - fix xi-term metadata, apt doesnt like version without a digit
 - [ncursesFM](https://github.com/FedeDP/ncursesFM) requires libudev...
+- [maze5](http://www.fiveoclock.de/?page_id=81) requires cairo and xorg stuff. Add parentheses to build/Sconscript:32 to enable building with python3 scons. install scons with pip/pipx.
