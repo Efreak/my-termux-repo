@@ -28,6 +28,8 @@ data/data/com.termux/files/usr/bin/pspg                                         
 data/data/com.termux/files/usr/bin/rocketfetch                                   rocketfetch
 data/data/com.termux/files/usr/bin/rpipes                                        rpipes
 data/data/com.termux/files/usr/bin/ru_fetch                                      ru_fetch
+data/data/com.termux/files/usr/bin/shed                                          shed
+data/data/com.termux/files/usr/man/man1/shed.1                                   shed
 data/data/com.termux/files/usr/bin/steamguard-cli                                steamguard-cli
 data/data/com.termux/files/usr/bin/stor-age                                      stor-age
 data/data/com.termux/files/usr/bin/sttr                                          sttr

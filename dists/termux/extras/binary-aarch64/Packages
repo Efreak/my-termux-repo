@@ -325,6 +325,20 @@ SHA1: 506ee00c8a9a7f82995ff1b7dc468942a538cbcc
 SHA256: 37efcda431be9099c34507d93be4e0398e5097ab7737c08395ceeee81114e06b
 SHA512: 54e91c6b0e9b3229595247fe64f5ab6dd1d2b9a38c9714ceb055da130e0ff62ebd4987fd4dd3e924ca217d382305d197888d81baf9ba22971b7d10ed800c5a9a
 
+Package: shed
+Version: 1.15
+Architecture: aarch64
+Maintainer: @Efreak
+Description: An easy to use hex editor written for unix/linux using ncurses, with a friendly pico-style interface.
+	Shed displays one byte per line, with ascii, hex, octal and binary representations. Use X to quit, not q.
+Homepage: https://shed.sourceforge.net
+Filename: dists/termux/extras/binary-aarch64/shed_1.15_aarch64.deb
+Size: 16852
+MD5Sum: d621a48ee37dc772c43b2a9b7322e663
+SHA1: 12407787615eb137f8076a518e7aaaed7e1cdda0
+SHA256: 09de09ca2f87ac918bbcc7445db2c5fc8b1b627d49aa589690a10cd2205f2735
+SHA512: 0f8946751f74f0f4a7435ce5a1960a1ca22d94ff193531e7fb539bd6aafa49b2de5e6bd6048d5e3a71f0fe3228b934ad7a43774145b2b3faf707ae2e4c4468f4
+
 Package: steamguard-cli
 Version: 0.4.2
 Architecture: aarch64
