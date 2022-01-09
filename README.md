@@ -65,7 +65,7 @@ TODO:
 - [ncursesFM](https://github.com/FedeDP/ncursesFM) requires libudev...
 - [maze5](http://www.fiveoclock.de/?page_id=81) requires cairo and xorg stuff. Add parentheses to build/Sconscript:32 to enable building with python3 scons. install scons with pip/pipx.
 - [tetris](https://github.com/brenns10/tetris) requires libsdl for sound
-
+- [ngp](https://github.com/jonathanklee/ngp) is an ncurses based grep viewer that requires more pthread than is available...
 Other:
 
 - pipx - `python -m pip install pipx`
