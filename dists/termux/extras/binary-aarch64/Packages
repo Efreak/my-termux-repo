@@ -340,6 +340,21 @@ SHA1: 506ee00c8a9a7f82995ff1b7dc468942a538cbcc
 SHA256: 37efcda431be9099c34507d93be4e0398e5097ab7737c08395ceeee81114e06b
 SHA512: 54e91c6b0e9b3229595247fe64f5ab6dd1d2b9a38c9714ceb055da130e0ff62ebd4987fd4dd3e924ca217d382305d197888d81baf9ba22971b7d10ed800c5a9a
 
+Package: scdoc
+Version: 1.11.2-b16de45
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 268
+Homepage: https://git.sr.ht/~sircmpwn/scdoc
+Description: The scdoc utility reads scdoc(5) syntax from the standard input and writes man(7) style roff to the standard output.
+	align_fix.py from the ndk patches was needed, as compiling natively in termux did not produce an executable binary...The 5mb binary was then stripped and compressed with upx
+Filename: dists/termux/extras/binary-aarch64/scdoc_1.11.2-b16de45_aarch64.deb
+Size: 262044
+MD5Sum: 187a77ecbaa3093388c918876193564b
+SHA1: e71f7b884fcbdc5fb6707ae408df1219fe9ec7a1
+SHA256: 8b56819089fed6565b67fbfd6179ed8ffc5ead8caaaafdde26bdee56f24c9516
+SHA512: 7f65fdd5e2272008c74fd09d9a611c6a71458e9da66d0e2dcdfabc104b0fa643b09b85b20f758824fa81c7cf510252bc843705444939e0abd2b7edf819a55587
+
 Package: shed
 Version: 1.15
 Architecture: aarch64
