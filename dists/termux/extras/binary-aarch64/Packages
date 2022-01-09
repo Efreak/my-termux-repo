@@ -67,6 +67,23 @@ SHA1: 9cce29f134dc2e9ab8cddc855fd63751fabc275c
 SHA256: 76507a47154f9ddc05eebba0efa7e7828b26689952cd309e33547e94056baceb
 SHA512: 98e39b5fe3a7e725b7081c84af760c074a6567d8f7633d6ffba188aa0d1a7157b8af83cee2907a0ffe7ce975bd398cb6757df50ddc4df554038b02e9e8015079
 
+Package: curses-city
+Version: 1-000bec23
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 426
+Homepage: https://github.com/cbabuska/curses_city
+Description: Basic Sim City style game written in C++ using ncurses for ascii graphics
+ ncurses statically linked, not required; stripped.
+ patched to allow lowercase q and e to exit as well as uppercase Q
+ No version number provided. hash used instead.
+Filename: dists/termux/extras/binary-aarch64/curses-city_1-000bec23_aarch64.deb
+Size: 127192
+MD5Sum: ce1da3395dd0aa26b4c126fbc2e3cac3
+SHA1: d83774150b8023d9226b5769acf00c9351319cde
+SHA256: 62b45561c379e31e30cd633b94d547f906e887e03643112d3c0821e5bbd04168
+SHA512: 7ec2aad05d22292f6186fd189482b085337518fa3fdf45482f408b36cb7a1fbb49f07598c26e51f970642876beed509215c3a2d02a62ce9754081dc222f4a9b7
+
 Package: damo_fetch
 Version: 0.1.0
 Architecture: aarch64

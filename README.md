@@ -15,6 +15,7 @@ Included software is listed below; particularly useful or interesting software i
 - *cargo-trim* - cleans up cargo caches
 - cargo-whatfeatures
 - *cbonsai* - draw trees in the terminal
+- *curses-city*
 - damo
 - dekryptize - fake decryption animation using ncurses
 - *freesweep* - minesweeper
