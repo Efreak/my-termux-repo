@@ -52,6 +52,20 @@ SHA1: 15c645f89879234c7017b8c1166bd0442856d57c
 SHA256: ee1676feadbe63860862c1d2790e70213d81dcf0c82881035bacf0b89cbfa7eb
 SHA512: 5227e264a51240cccd225c28108ec75e4a1c673421c77bbef44bf53169fcd783b8563ac0137ccdc8330d2c99700909df871643c1a6f0a4131b05cfee2e1e3d6b
 
+Package: cbonsai
+Version: 1.3.1
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 345
+Homepage: https://gitlab.com/jallbrit/cbonsai
+Description: grow bonsai trees in your terminal. statically binary.
+Filename: dists/termux/extras/binary-aarch64/cbonsai_1.3.1_aarch64.deb
+Size: 342256
+MD5Sum: 0129fd245efb337d7598d5ce36756bcb
+SHA1: cc9f4b993ad56f599553cef45e45e9d6ae38db14
+SHA256: 99b6edb6120aa30c1c5ae6192389498d02ed83ef6b26f28cf68c5050f445deb0
+SHA512: 0985b7453a4448789f017e91ae1b88ec6883387e246e42dfe32dffcc9d98eb3bad7c0f6907170be744b9b62034318a56e34d83d0ffaeee6c709b480fd0b672fa
+
 Package: damo_fetch
 Version: 0.1.0
 Architecture: aarch64

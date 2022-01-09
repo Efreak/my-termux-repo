@@ -2,6 +2,8 @@ data/data/com.termux/files/usr/bin/amfora                                       
 data/data/com.termux/files/usr/bin/atuin                                         atuin
 data/data/com.termux/files/usr/bin/cargo-trim                                    cargo-trim
 data/data/com.termux/files/usr/bin/cargo-whatfeatures                            cargo-whatfeatures
+data/data/com.termux/files/usr/bin/cbonsai                                       cbonsai
+data/data/com.termux/files/usr/man/man1/cbonsai.1                                cbonsai
 data/data/com.termux/files/usr/bin/damo_fetch                                    damo_fetch
 data/data/com.termux/files/home/.local/share/sweeprc                             freesweep
 data/data/com.termux/files/home/.local/share/sweeptimes                          freesweep
