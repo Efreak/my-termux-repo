@@ -41,6 +41,7 @@ Included software is listed below; particularly useful or interesting software i
 - os_info
 - pipes.sh
 - pipesX.sh
+- [pixz](https://github.com/vasi/pixz/tree/1eb74e8ee812177f01b324af77e91d4c3aa4ef59) - parallel xz implementation
 - *powerline-rs*
 - *pspg*
 - rocketfetch

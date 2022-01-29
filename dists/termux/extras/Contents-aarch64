@@ -33,6 +33,8 @@ data/data/com.termux/files/usr/bin/neo                                          
 data/data/com.termux/files/usr/bin/netware-worms                                 netware-worms
 data/data/com.termux/files/usr/bin/ngp                                           ngp2
 data/data/com.termux/files/usr/bin/os_info                                       os_info
+data/data/com.termux/files/usr/bin/pixz                                          pixz
+data/data/com.termux/files/usr/share/man/man1/pixz.1                             pixz
 data/data/com.termux/files/usr/bin/powerline-rs                                  powerline-rs
 data/data/com.termux/files/usr/bin/pspg                                          pspg
 data/data/com.termux/files/usr/bin/rocketfetch                                   rocketfetch

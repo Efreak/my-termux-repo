@@ -406,6 +406,21 @@ SHA1: b207874a08950abbfe378dcd7cf70420a604430c
 SHA256: 2464ab81558e4a9d40a5299e55a85056ba81fd89505cbf8c59d9fd34a28449a3
 SHA512: d8c23db1ad03df356ea0403dc23357f0083cf1ee99b5c2cb10eee638a2ea171cefce47c4cf31d6bddd1cd60a215eacaf0e1e509ba65494249466be565b32d60d
 
+Package: pixz
+Version: 1.0.7
+Architecture: aarch64
+Maintainer: @Efreak
+Installed-Size: 24
+Depends: liblzma (>= 5.2.5), libarchive (>= 3.5.2)
+Homepage: https://github.com/vasi/pixz/tree/1eb74e8ee812177f01b324af77e91d4c3aa4ef59
+Description: Parallel, indexed xz compressor. git version, contains some fixes.
+Filename: dists/termux/extras/binary-aarch64/pixz_1.0.7_aarch64.deb
+Size: 20456
+MD5Sum: c37039d4054560cb11a4cf5c6bb7b225
+SHA1: 37186ebc4e46d14ef4ded82f5c3de949e3f5ffb2
+SHA256: 08791b324c0360510b0e5fa8d21a24649b1449d2f294df9d4897a31f22fce58f
+SHA512: 69e5d38602b99dab0f55457cf962db8ae0a672e25be0321cbcc49806e8c46cef8f554bc4e0043618d4324bb7d73a8cfe2055b431216a97f0799cf52c3f733e58
+
 Package: powerline-rs
 Version: 0.2.0
 Architecture: aarch64
