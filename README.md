@@ -32,6 +32,7 @@ Included software is listed below; particularly useful or interesting software i
 - *goful*
 - hoard-rs
 - *imgcurses*
+- libb2
 - macchina
 - *mandown*
 - mazegenerator
